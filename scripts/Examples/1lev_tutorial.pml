@@ -20,7 +20,7 @@ util.cbac('f6p')
 # перекрасить f6p
 
 select act_site, byres f6p around 3.5
-# выбрать молекулы в радиусе 3.5 нм от выделения f6p и назвать их act_site
+# выбрать молекулы в радиусе 3.5 A от выделения f6p и назвать их act_site
 
 show sticks, act_site
 # отобразить act_site в виде палочек
