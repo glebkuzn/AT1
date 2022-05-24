@@ -8,6 +8,9 @@ authors = ["gkuznetsov <gleb.kuznetsov@sbermarket.ru>"]
 python = "^3.9"
 notebook = "^6.4.11"
 pandas = "^1.4.2"
+biopandas = "^0.4.1"
+biopython = "^1.79"
+matplotlib = "^3.5.2"
 
 [tool.poetry.dev-dependencies]
 
