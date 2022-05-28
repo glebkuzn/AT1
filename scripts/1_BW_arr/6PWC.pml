@@ -7,7 +7,7 @@ remove arr and chain R
 
 save ../../pdb/1_BW/arr/6PWC.pdb
 
-select round, byres arr around 4 and BW
-select orig, byres round around 4 and arr
+select round, byres arr around 10 and BW
+select orig, byres round around 10 and arr
 save ../../pdb/2_aligned/arr/6PWC.pdb, (round or orig)
     
