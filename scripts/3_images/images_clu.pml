@@ -15,7 +15,9 @@ select init_res, 4YAY_6TKO and chain A and resi 70 or init_res
                         contacts 4YAY_6TKO and chain A and init_res, 4YAY_6TKO and chain R and init_res, result="contacts_4YAY_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4YAY_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -35,7 +37,9 @@ select init_res, 4YAY_6TKO and chain A and resi 69 or init_res
                         contacts 4YAY_6TKO and chain A and init_res, 4YAY_6TKO and chain R and init_res, result="contacts_4YAY_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4YAY_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -55,7 +59,9 @@ select init_res, 4YAY_6TKO and chain A and resi 69 or init_res
                         contacts 4YAY_6TKO and chain A and init_res, 4YAY_6TKO and chain R and init_res, result="contacts_4YAY_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4YAY_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -75,7 +81,9 @@ select init_res, 4YAY_6TKO and chain A and resi 69 or init_res
                         contacts 4YAY_6TKO and chain A and init_res, 4YAY_6TKO and chain R and init_res, result="contacts_4YAY_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4YAY_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -95,7 +103,9 @@ select init_res, 4YAY_6TKO and chain A and resi 70 or init_res
                         contacts 4YAY_6TKO and chain A and init_res, 4YAY_6TKO and chain R and init_res, result="contacts_4YAY_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4YAY_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -115,7 +125,9 @@ select init_res, 4YAY_6TKO and chain A and resi 70 or init_res
                         contacts 4YAY_6TKO and chain A and init_res, 4YAY_6TKO and chain R and init_res, result="contacts_4YAY_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4YAY_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -135,7 +147,9 @@ select init_res, 4YAY_6TKO and chain A and resi 70 or init_res
                         contacts 4YAY_6TKO and chain A and init_res, 4YAY_6TKO and chain R and init_res, result="contacts_4YAY_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4YAY_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -155,7 +169,9 @@ select init_res, 4YAY_6TKO and chain A and resi 71 or init_res
                         contacts 4YAY_6TKO and chain A and init_res, 4YAY_6TKO and chain R and init_res, result="contacts_4YAY_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4YAY_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -175,7 +191,9 @@ select init_res, 4YAY_6TKO and chain A and resi 72 or init_res
                         contacts 4YAY_6TKO and chain A and init_res, 4YAY_6TKO and chain R and init_res, result="contacts_4YAY_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4YAY_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -195,7 +213,9 @@ select init_res, 4YAY_6TKO and chain A and resi 70 or init_res
                         contacts 4YAY_6TKO and chain A and init_res, 4YAY_6TKO and chain R and init_res, result="contacts_4YAY_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4YAY_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -215,7 +235,9 @@ select init_res, 4YAY_6TKO and chain A and resi 70 or init_res
                         contacts 4YAY_6TKO and chain A and init_res, 4YAY_6TKO and chain R and init_res, result="contacts_4YAY_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4YAY_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -235,7 +257,9 @@ select init_res, 4YAY_6TKO and chain A and resi 71 or init_res
                         contacts 4YAY_6TKO and chain A and init_res, 4YAY_6TKO and chain R and init_res, result="contacts_4YAY_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4YAY_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -255,7 +279,9 @@ select init_res, 4YAY_6TKO and chain A and resi 70 or init_res
                         contacts 4YAY_6TKO and chain A and init_res, 4YAY_6TKO and chain R and init_res, result="contacts_4YAY_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4YAY_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -275,7 +301,9 @@ select init_res, 4YAY_6TKO and chain A and resi 70 or init_res
                         contacts 4YAY_6TKO and chain A and init_res, 4YAY_6TKO and chain R and init_res, result="contacts_4YAY_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4YAY_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -296,7 +324,9 @@ select init_res, 4YAY_6TKO and chain A and resi 73 or init_res
                         contacts 4YAY_6TKO and chain A and init_res, 4YAY_6TKO and chain R and init_res, result="contacts_4YAY_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4YAY_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -317,7 +347,9 @@ select init_res, 4YAY_6TKO and chain A and resi 73 or init_res
                         contacts 4YAY_6TKO and chain A and init_res, 4YAY_6TKO and chain R and init_res, result="contacts_4YAY_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4YAY_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -338,7 +370,9 @@ select init_res, 4YAY_6TKO and chain A and resi 73 or init_res
                         contacts 4YAY_6TKO and chain A and init_res, 4YAY_6TKO and chain R and init_res, result="contacts_4YAY_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4YAY_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -358,7 +392,9 @@ select init_res, 4YAY_6TKO and chain A and resi 66 or init_res
                         contacts 4YAY_6TKO and chain A and init_res, 4YAY_6TKO and chain R and init_res, result="contacts_4YAY_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4YAY_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -378,7 +414,9 @@ select init_res, 4YAY_6TKO and chain A and resi 68 or init_res
                         contacts 4YAY_6TKO and chain A and init_res, 4YAY_6TKO and chain R and init_res, result="contacts_4YAY_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4YAY_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -398,7 +436,9 @@ select init_res, 4YAY_6TKO and chain A and resi 69 or init_res
                         contacts 4YAY_6TKO and chain A and init_res, 4YAY_6TKO and chain R and init_res, result="contacts_4YAY_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4YAY_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -418,7 +458,9 @@ select init_res, 4YAY_6TKO and chain A and resi 68 or init_res
                         contacts 4YAY_6TKO and chain A and init_res, 4YAY_6TKO and chain R and init_res, result="contacts_4YAY_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4YAY_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -438,7 +480,9 @@ select init_res, 4YAY_6TKO and chain A and resi 69 or init_res
                         contacts 4YAY_6TKO and chain A and init_res, 4YAY_6TKO and chain R and init_res, result="contacts_4YAY_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4YAY_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -458,7 +502,9 @@ select init_res, 4YAY_6TKO and chain A and resi 69 or init_res
                         contacts 4YAY_6TKO and chain A and init_res, 4YAY_6TKO and chain R and init_res, result="contacts_4YAY_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4YAY_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -478,7 +524,9 @@ select init_res, 4YAY_6TKO and chain A and resi 69 or init_res
                         contacts 4YAY_6TKO and chain A and init_res, 4YAY_6TKO and chain R and init_res, result="contacts_4YAY_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4YAY_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -498,7 +546,9 @@ select init_res, 4YAY_6TKO and chain A and resi 69 or init_res
                         contacts 4YAY_6TKO and chain A and init_res, 4YAY_6TKO and chain R and init_res, result="contacts_4YAY_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4YAY_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -518,7 +568,9 @@ select init_res, 4YAY_6TKO and chain A and resi 68 or init_res
                         contacts 4YAY_6TKO and chain A and init_res, 4YAY_6TKO and chain R and init_res, result="contacts_4YAY_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4YAY_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -538,7 +590,9 @@ select init_res, 4YAY_6TKO and chain A and resi 69 or init_res
                         contacts 4YAY_6TKO and chain A and init_res, 4YAY_6TKO and chain R and init_res, result="contacts_4YAY_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4YAY_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -558,7 +612,9 @@ select init_res, 4YAY_6TKO and chain A and resi 69 or init_res
                         contacts 4YAY_6TKO and chain A and init_res, 4YAY_6TKO and chain R and init_res, result="contacts_4YAY_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4YAY_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -578,7 +634,9 @@ select init_res, 4YAY_6TKO and chain A and resi 69 or init_res
                         contacts 4YAY_6TKO and chain A and init_res, 4YAY_6TKO and chain R and init_res, result="contacts_4YAY_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4YAY_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -598,7 +656,9 @@ select init_res, 4YAY_6TKO and chain A and resi 72 or init_res
                         contacts 4YAY_6TKO and chain A and init_res, 4YAY_6TKO and chain R and init_res, result="contacts_4YAY_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4YAY_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -618,7 +678,9 @@ select init_res, 4YAY_6TKO and chain A and resi 69 or init_res
                         contacts 4YAY_6TKO and chain A and init_res, 4YAY_6TKO and chain R and init_res, result="contacts_4YAY_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4YAY_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -638,7 +700,9 @@ select init_res, 4YAY_6TKO and chain A and resi 71 or init_res
                         contacts 4YAY_6TKO and chain A and init_res, 4YAY_6TKO and chain R and init_res, result="contacts_4YAY_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4YAY_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -658,7 +722,9 @@ select init_res, 4YAY_6TKO and chain A and resi 72 or init_res
                         contacts 4YAY_6TKO and chain A and init_res, 4YAY_6TKO and chain R and init_res, result="contacts_4YAY_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4YAY_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -678,7 +744,9 @@ select init_res, 4YAY_6TKO and chain A and resi 73 or init_res
                         contacts 4YAY_6TKO and chain A and init_res, 4YAY_6TKO and chain R and init_res, result="contacts_4YAY_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4YAY_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -698,7 +766,9 @@ select init_res, 4YAY_6TKO and chain A and resi 73 or init_res
                         contacts 4YAY_6TKO and chain A and init_res, 4YAY_6TKO and chain R and init_res, result="contacts_4YAY_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4YAY_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -718,7 +788,9 @@ select init_res, 4YAY_6TKO and chain A and resi 73 or init_res
                         contacts 4YAY_6TKO and chain A and init_res, 4YAY_6TKO and chain R and init_res, result="contacts_4YAY_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4YAY_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -738,7 +810,9 @@ select init_res, 4YAY_6TKO and chain A and resi 73 or init_res
                         contacts 4YAY_6TKO and chain A and init_res, 4YAY_6TKO and chain R and init_res, result="contacts_4YAY_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4YAY_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -758,7 +832,9 @@ select init_res, 4YAY_6TKO and chain A and resi 73 or init_res
                         contacts 4YAY_6TKO and chain A and init_res, 4YAY_6TKO and chain R and init_res, result="contacts_4YAY_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4YAY_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -778,7 +854,9 @@ select init_res, 4YAY_6TKO and chain A and resi 74 or init_res
                         contacts 4YAY_6TKO and chain A and init_res, 4YAY_6TKO and chain R and init_res, result="contacts_4YAY_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4YAY_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -798,7 +876,9 @@ select init_res, 4YAY_6TKO and chain A and resi 74 or init_res
                         contacts 4YAY_6TKO and chain A and init_res, 4YAY_6TKO and chain R and init_res, result="contacts_4YAY_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4YAY_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -818,7 +898,9 @@ select init_res, 4YAY_6TKO and chain A and resi 69 or init_res
                         contacts 4YAY_6TKO and chain A and init_res, 4YAY_6TKO and chain R and init_res, result="contacts_4YAY_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4YAY_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -838,7 +920,9 @@ select init_res, 4YAY_6TKO and chain A and resi 71 or init_res
                         contacts 4YAY_6TKO and chain A and init_res, 4YAY_6TKO and chain R and init_res, result="contacts_4YAY_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4YAY_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -858,7 +942,9 @@ select init_res, 4YAY_6TKO and chain A and resi 72 or init_res
                         contacts 4YAY_6TKO and chain A and init_res, 4YAY_6TKO and chain R and init_res, result="contacts_4YAY_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4YAY_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -878,7 +964,9 @@ select init_res, 4YAY_6TKO and chain A and resi 72 or init_res
                         contacts 4YAY_6TKO and chain A and init_res, 4YAY_6TKO and chain R and init_res, result="contacts_4YAY_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4YAY_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -898,7 +986,9 @@ select init_res, 4YAY_6TKO and chain A and resi 73 or init_res
                         contacts 4YAY_6TKO and chain A and init_res, 4YAY_6TKO and chain R and init_res, result="contacts_4YAY_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4YAY_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -918,7 +1008,9 @@ select init_res, 4YAY_6TKO and chain A and resi 68 or init_res
                         contacts 4YAY_6TKO and chain A and init_res, 4YAY_6TKO and chain R and init_res, result="contacts_4YAY_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4YAY_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -938,7 +1030,9 @@ select init_res, 4YAY_6TKO and chain A and resi 68 or init_res
                         contacts 4YAY_6TKO and chain A and init_res, 4YAY_6TKO and chain R and init_res, result="contacts_4YAY_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4YAY_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -958,7 +1052,9 @@ select init_res, 4YAY_6TKO and chain A and resi 69 or init_res
                         contacts 4YAY_6TKO and chain A and init_res, 4YAY_6TKO and chain R and init_res, result="contacts_4YAY_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4YAY_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -978,7 +1074,9 @@ select init_res, 4YAY_6TKO and chain A and resi 69 or init_res
                         contacts 4YAY_6TKO and chain A and init_res, 4YAY_6TKO and chain R and init_res, result="contacts_4YAY_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4YAY_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -998,7 +1096,9 @@ select init_res, 4YAY_6TKO and chain A and resi 69 or init_res
                         contacts 4YAY_6TKO and chain A and init_res, 4YAY_6TKO and chain R and init_res, result="contacts_4YAY_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4YAY_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -1018,7 +1118,9 @@ select init_res, 4YAY_6TKO and chain A and resi 70 or init_res
                         contacts 4YAY_6TKO and chain A and init_res, 4YAY_6TKO and chain R and init_res, result="contacts_4YAY_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4YAY_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -1038,7 +1140,9 @@ select init_res, 4YAY_6TKO and chain A and resi 71 or init_res
                         contacts 4YAY_6TKO and chain A and init_res, 4YAY_6TKO and chain R and init_res, result="contacts_4YAY_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4YAY_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -1058,7 +1162,9 @@ select init_res, 4YAY_6TKO and chain A and resi 72 or init_res
                         contacts 4YAY_6TKO and chain A and init_res, 4YAY_6TKO and chain R and init_res, result="contacts_4YAY_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4YAY_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -1078,7 +1184,9 @@ select init_res, 4YAY_6TKO and chain A and resi 72 or init_res
                         contacts 4YAY_6TKO and chain A and init_res, 4YAY_6TKO and chain R and init_res, result="contacts_4YAY_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4YAY_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -1098,7 +1206,9 @@ select init_res, 4YAY_6TKO and chain A and resi 73 or init_res
                         contacts 4YAY_6TKO and chain A and init_res, 4YAY_6TKO and chain R and init_res, result="contacts_4YAY_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4YAY_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -1118,7 +1228,9 @@ select init_res, 4YAY_6TKO and chain A and resi 68 or init_res
                         contacts 4YAY_6TKO and chain A and init_res, 4YAY_6TKO and chain R and init_res, result="contacts_4YAY_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4YAY_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -1138,7 +1250,9 @@ select init_res, 4YAY_6TKO and chain A and resi 70 or init_res
                         contacts 4YAY_6TKO and chain A and init_res, 4YAY_6TKO and chain R and init_res, result="contacts_4YAY_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4YAY_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -1158,7 +1272,9 @@ select init_res, 4YAY_6TKO and chain A and resi 72 or init_res
                         contacts 4YAY_6TKO and chain A and init_res, 4YAY_6TKO and chain R and init_res, result="contacts_4YAY_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4YAY_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -1178,7 +1294,9 @@ select init_res, 4YAY_6TKO and chain A and resi 69 or init_res
                         contacts 4YAY_6TKO and chain A and init_res, 4YAY_6TKO and chain R and init_res, result="contacts_4YAY_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4YAY_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -1198,7 +1316,9 @@ select init_res, 4YAY_6TKO and chain A and resi 69 or init_res
                         contacts 4YAY_6TKO and chain A and init_res, 4YAY_6TKO and chain R and init_res, result="contacts_4YAY_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4YAY_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -1218,7 +1338,9 @@ select init_res, 4YAY_6TKO and chain A and resi 69 or init_res
                         contacts 4YAY_6TKO and chain A and init_res, 4YAY_6TKO and chain R and init_res, result="contacts_4YAY_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4YAY_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -1238,7 +1360,9 @@ select init_res, 4YAY_6TKO and chain A and resi 70 or init_res
                         contacts 4YAY_6TKO and chain A and init_res, 4YAY_6TKO and chain R and init_res, result="contacts_4YAY_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4YAY_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -1258,7 +1382,9 @@ select init_res, 4YAY_6TKO and chain A and resi 70 or init_res
                         contacts 4YAY_6TKO and chain A and init_res, 4YAY_6TKO and chain R and init_res, result="contacts_4YAY_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4YAY_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -1278,7 +1404,9 @@ select init_res, 4YAY_6TKO and chain A and resi 71 or init_res
                         contacts 4YAY_6TKO and chain A and init_res, 4YAY_6TKO and chain R and init_res, result="contacts_4YAY_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4YAY_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -1298,7 +1426,9 @@ select init_res, 4YAY_6TKO and chain A and resi 72 or init_res
                         contacts 4YAY_6TKO and chain A and init_res, 4YAY_6TKO and chain R and init_res, result="contacts_4YAY_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4YAY_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -1318,7 +1448,9 @@ select init_res, 4YAY_6TKO and chain A and resi 71 or init_res
                         contacts 4YAY_6TKO and chain A and init_res, 4YAY_6TKO and chain R and init_res, result="contacts_4YAY_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4YAY_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -1338,7 +1470,9 @@ select init_res, 4YAY_6TKO and chain A and resi 69 or init_res
                         contacts 4YAY_6TKO and chain A and init_res, 4YAY_6TKO and chain R and init_res, result="contacts_4YAY_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4YAY_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -1358,7 +1492,9 @@ select init_res, 4YAY_6TKO and chain A and resi 70 or init_res
                         contacts 4YAY_6TKO and chain A and init_res, 4YAY_6TKO and chain R and init_res, result="contacts_4YAY_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4YAY_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -1378,7 +1514,9 @@ select init_res, 4YAY_6TKO and chain A and resi 71 or init_res
                         contacts 4YAY_6TKO and chain A and init_res, 4YAY_6TKO and chain R and init_res, result="contacts_4YAY_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4YAY_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -1398,7 +1536,9 @@ select init_res, 4YAY_6TKO and chain A and resi 72 or init_res
                         contacts 4YAY_6TKO and chain A and init_res, 4YAY_6TKO and chain R and init_res, result="contacts_4YAY_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4YAY_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -1418,7 +1558,9 @@ select init_res, 4YAY_6TKO and chain A and resi 71 or init_res
                         contacts 4YAY_6TKO and chain A and init_res, 4YAY_6TKO and chain R and init_res, result="contacts_4YAY_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4YAY_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -1438,7 +1580,9 @@ select init_res, 4YAY_6TKO and chain A and resi 130 or init_res
                         contacts 4YAY_6TKO and chain A and init_res, 4YAY_6TKO and chain R and init_res, result="contacts_4YAY_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4YAY_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -1458,7 +1602,9 @@ select init_res, 4YAY_6TKO and chain A and resi 132 or init_res
                         contacts 4YAY_6TKO and chain A and init_res, 4YAY_6TKO and chain R and init_res, result="contacts_4YAY_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4YAY_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -1478,7 +1624,9 @@ select init_res, 4YAY_6TKO and chain A and resi 135 or init_res
                         contacts 4YAY_6TKO and chain A and init_res, 4YAY_6TKO and chain R and init_res, result="contacts_4YAY_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4YAY_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -1498,7 +1646,9 @@ select init_res, 4YAY_6TKO and chain A and resi 132 or init_res
                         contacts 4YAY_6TKO and chain A and init_res, 4YAY_6TKO and chain R and init_res, result="contacts_4YAY_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4YAY_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -1518,7 +1668,9 @@ select init_res, 4YAY_6TKO and chain A and resi 135 or init_res
                         contacts 4YAY_6TKO and chain A and init_res, 4YAY_6TKO and chain R and init_res, result="contacts_4YAY_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4YAY_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -1538,7 +1690,9 @@ select init_res, 4YAY_6TKO and chain A and resi 135 or init_res
                         contacts 4YAY_6TKO and chain A and init_res, 4YAY_6TKO and chain R and init_res, result="contacts_4YAY_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4YAY_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -1558,7 +1712,9 @@ select init_res, 4YAY_6TKO and chain A and resi 285 or init_res
                         contacts 4YAY_6TKO and chain A and init_res, 4YAY_6TKO and chain R and init_res, result="contacts_4YAY_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4YAY_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -1578,7 +1734,9 @@ select init_res, 4YAY_6TKO and chain A and resi 285 or init_res
                         contacts 4YAY_6TKO and chain A and init_res, 4YAY_6TKO and chain R and init_res, result="contacts_4YAY_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4YAY_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -1598,7 +1756,9 @@ select init_res, 4YAY_6TKO and chain A and resi 285 or init_res
                         contacts 4YAY_6TKO and chain A and init_res, 4YAY_6TKO and chain R and init_res, result="contacts_4YAY_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4YAY_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -1618,7 +1778,9 @@ select init_res, 4YAY_6TKO and chain A and resi 133 or init_res
                         contacts 4YAY_6TKO and chain A and init_res, 4YAY_6TKO and chain R and init_res, result="contacts_4YAY_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4YAY_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -1638,7 +1800,9 @@ select init_res, 4YAY_6TKO and chain A and resi 134 or init_res
                         contacts 4YAY_6TKO and chain A and init_res, 4YAY_6TKO and chain R and init_res, result="contacts_4YAY_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4YAY_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -1658,7 +1822,9 @@ select init_res, 4YAY_6TKO and chain A and resi 283 or init_res
                         contacts 4YAY_6TKO and chain A and init_res, 4YAY_6TKO and chain R and init_res, result="contacts_4YAY_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4YAY_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -1678,7 +1844,9 @@ select init_res, 4YAY_6TKO and chain A and resi 285 or init_res
                         contacts 4YAY_6TKO and chain A and init_res, 4YAY_6TKO and chain R and init_res, result="contacts_4YAY_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4YAY_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -1698,7 +1866,9 @@ select init_res, 4YAY_6TKO and chain A and resi 285 or init_res
                         contacts 4YAY_6TKO and chain A and init_res, 4YAY_6TKO and chain R and init_res, result="contacts_4YAY_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4YAY_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -1718,7 +1888,9 @@ select init_res, 4YAY_6TKO and chain A and resi 135 or init_res
                         contacts 4YAY_6TKO and chain A and init_res, 4YAY_6TKO and chain R and init_res, result="contacts_4YAY_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4YAY_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -1738,7 +1910,9 @@ select init_res, 4YAY_6TKO and chain A and resi 136 or init_res
                         contacts 4YAY_6TKO and chain A and init_res, 4YAY_6TKO and chain R and init_res, result="contacts_4YAY_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4YAY_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -1758,7 +1932,9 @@ select init_res, 4YAY_6TKO and chain A and resi 136 or init_res
                         contacts 4YAY_6TKO and chain A and init_res, 4YAY_6TKO and chain R and init_res, result="contacts_4YAY_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4YAY_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -1778,7 +1954,9 @@ select init_res, 4YAY_6TKO and chain A and resi 136 or init_res
                         contacts 4YAY_6TKO and chain A and init_res, 4YAY_6TKO and chain R and init_res, result="contacts_4YAY_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4YAY_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -1798,7 +1976,9 @@ select init_res, 4YAY_6TKO and chain A and resi 135 or init_res
                         contacts 4YAY_6TKO and chain A and init_res, 4YAY_6TKO and chain R and init_res, result="contacts_4YAY_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4YAY_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -1818,7 +1998,9 @@ select init_res, 4YAY_6TKO and chain A and resi 285 or init_res
                         contacts 4YAY_6TKO and chain A and init_res, 4YAY_6TKO and chain R and init_res, result="contacts_4YAY_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4YAY_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -1838,7 +2020,9 @@ select init_res, 4YAY_6TKO and chain A and resi 285 or init_res
                         contacts 4YAY_6TKO and chain A and init_res, 4YAY_6TKO and chain R and init_res, result="contacts_4YAY_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4YAY_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -1858,7 +2042,9 @@ select init_res, 4YAY_6TKO and chain A and resi 285 or init_res
                         contacts 4YAY_6TKO and chain A and init_res, 4YAY_6TKO and chain R and init_res, result="contacts_4YAY_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4YAY_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -1878,7 +2064,9 @@ select init_res, 4YAY_6TKO and chain A and resi 285 or init_res
                         contacts 4YAY_6TKO and chain A and init_res, 4YAY_6TKO and chain R and init_res, result="contacts_4YAY_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4YAY_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -1898,7 +2086,9 @@ select init_res, 4YAY_6TKO and chain A and resi 249 or init_res
                         contacts 4YAY_6TKO and chain A and init_res, 4YAY_6TKO and chain R and init_res, result="contacts_4YAY_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4YAY_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -1918,7 +2108,9 @@ select init_res, 4YAY_6TKO and chain A and resi 285 or init_res
                         contacts 4YAY_6TKO and chain A and init_res, 4YAY_6TKO and chain R and init_res, result="contacts_4YAY_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4YAY_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -1938,7 +2130,9 @@ select init_res, 4YAY_6TKO and chain A and resi 286 or init_res
                         contacts 4YAY_6TKO and chain A and init_res, 4YAY_6TKO and chain R and init_res, result="contacts_4YAY_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4YAY_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -1958,7 +2152,9 @@ select init_res, 4YAY_6TKO and chain A and resi 285 or init_res
                         contacts 4YAY_6TKO and chain A and init_res, 4YAY_6TKO and chain R and init_res, result="contacts_4YAY_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4YAY_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -1978,7 +2174,9 @@ select init_res, 4YAY_6TKO and chain A and resi 285 or init_res
                         contacts 4YAY_6TKO and chain A and init_res, 4YAY_6TKO and chain R and init_res, result="contacts_4YAY_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4YAY_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -1998,7 +2196,9 @@ select init_res, 4YAY_6TKO and chain A and resi 285 or init_res
                         contacts 4YAY_6TKO and chain A and init_res, 4YAY_6TKO and chain R and init_res, result="contacts_4YAY_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4YAY_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -2018,7 +2218,9 @@ select init_res, 4YAY_6TKO and chain A and resi 286 or init_res
                         contacts 4YAY_6TKO and chain A and init_res, 4YAY_6TKO and chain R and init_res, result="contacts_4YAY_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4YAY_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -2045,7 +2247,9 @@ select init_res, 4YAY_6U1N and chain A and resi 73 or init_res
                         contacts 4YAY_6U1N and chain A and init_res, 4YAY_6U1N and chain R and init_res, result="contacts_4YAY_6U1N", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4YAY_6U1N
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -2066,7 +2270,9 @@ select init_res, 4YAY_6U1N and chain A and resi 73 or init_res
                         contacts 4YAY_6U1N and chain A and init_res, 4YAY_6U1N and chain R and init_res, result="contacts_4YAY_6U1N", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4YAY_6U1N
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -2087,7 +2293,9 @@ select init_res, 4YAY_6U1N and chain A and resi 73 or init_res
                         contacts 4YAY_6U1N and chain A and init_res, 4YAY_6U1N and chain R and init_res, result="contacts_4YAY_6U1N", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4YAY_6U1N
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -2107,7 +2315,9 @@ select init_res, 4YAY_6U1N and chain A and resi 68 or init_res
                         contacts 4YAY_6U1N and chain A and init_res, 4YAY_6U1N and chain R and init_res, result="contacts_4YAY_6U1N", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4YAY_6U1N
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -2127,7 +2337,9 @@ select init_res, 4YAY_6U1N and chain A and resi 69 or init_res
                         contacts 4YAY_6U1N and chain A and init_res, 4YAY_6U1N and chain R and init_res, result="contacts_4YAY_6U1N", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4YAY_6U1N
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -2147,7 +2359,9 @@ select init_res, 4YAY_6U1N and chain A and resi 69 or init_res
                         contacts 4YAY_6U1N and chain A and init_res, 4YAY_6U1N and chain R and init_res, result="contacts_4YAY_6U1N", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4YAY_6U1N
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -2167,7 +2381,9 @@ select init_res, 4YAY_6U1N and chain A and resi 71 or init_res
                         contacts 4YAY_6U1N and chain A and init_res, 4YAY_6U1N and chain R and init_res, result="contacts_4YAY_6U1N", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4YAY_6U1N
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -2187,7 +2403,9 @@ select init_res, 4YAY_6U1N and chain A and resi 70 or init_res
                         contacts 4YAY_6U1N and chain A and init_res, 4YAY_6U1N and chain R and init_res, result="contacts_4YAY_6U1N", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4YAY_6U1N
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -2207,7 +2425,9 @@ select init_res, 4YAY_6U1N and chain A and resi 70 or init_res
                         contacts 4YAY_6U1N and chain A and init_res, 4YAY_6U1N and chain R and init_res, result="contacts_4YAY_6U1N", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4YAY_6U1N
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -2227,7 +2447,9 @@ select init_res, 4YAY_6U1N and chain A and resi 70 or init_res
                         contacts 4YAY_6U1N and chain A and init_res, 4YAY_6U1N and chain R and init_res, result="contacts_4YAY_6U1N", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4YAY_6U1N
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -2247,7 +2469,9 @@ select init_res, 4YAY_6U1N and chain A and resi 70 or init_res
                         contacts 4YAY_6U1N and chain A and init_res, 4YAY_6U1N and chain R and init_res, result="contacts_4YAY_6U1N", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4YAY_6U1N
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -2267,7 +2491,9 @@ select init_res, 4YAY_6U1N and chain A and resi 71 or init_res
                         contacts 4YAY_6U1N and chain A and init_res, 4YAY_6U1N and chain R and init_res, result="contacts_4YAY_6U1N", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4YAY_6U1N
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -2287,7 +2513,9 @@ select init_res, 4YAY_6U1N and chain A and resi 71 or init_res
                         contacts 4YAY_6U1N and chain A and init_res, 4YAY_6U1N and chain R and init_res, result="contacts_4YAY_6U1N", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4YAY_6U1N
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -2307,7 +2535,9 @@ select init_res, 4YAY_6U1N and chain A and resi 71 or init_res
                         contacts 4YAY_6U1N and chain A and init_res, 4YAY_6U1N and chain R and init_res, result="contacts_4YAY_6U1N", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4YAY_6U1N
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -2327,7 +2557,9 @@ select init_res, 4YAY_6U1N and chain A and resi 71 or init_res
                         contacts 4YAY_6U1N and chain A and init_res, 4YAY_6U1N and chain R and init_res, result="contacts_4YAY_6U1N", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4YAY_6U1N
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -2347,7 +2579,9 @@ select init_res, 4YAY_6U1N and chain A and resi 72 or init_res
                         contacts 4YAY_6U1N and chain A and init_res, 4YAY_6U1N and chain R and init_res, result="contacts_4YAY_6U1N", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4YAY_6U1N
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -2367,7 +2601,9 @@ select init_res, 4YAY_6U1N and chain A and resi 72 or init_res
                         contacts 4YAY_6U1N and chain A and init_res, 4YAY_6U1N and chain R and init_res, result="contacts_4YAY_6U1N", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4YAY_6U1N
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -2387,7 +2623,9 @@ select init_res, 4YAY_6U1N and chain A and resi 72 or init_res
                         contacts 4YAY_6U1N and chain A and init_res, 4YAY_6U1N and chain R and init_res, result="contacts_4YAY_6U1N", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4YAY_6U1N
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -2407,7 +2645,9 @@ select init_res, 4YAY_6U1N and chain A and resi 70 or init_res
                         contacts 4YAY_6U1N and chain A and init_res, 4YAY_6U1N and chain R and init_res, result="contacts_4YAY_6U1N", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4YAY_6U1N
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -2427,7 +2667,9 @@ select init_res, 4YAY_6U1N and chain A and resi 72 or init_res
                         contacts 4YAY_6U1N and chain A and init_res, 4YAY_6U1N and chain R and init_res, result="contacts_4YAY_6U1N", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4YAY_6U1N
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -2447,7 +2689,9 @@ select init_res, 4YAY_6U1N and chain A and resi 71 or init_res
                         contacts 4YAY_6U1N and chain A and init_res, 4YAY_6U1N and chain R and init_res, result="contacts_4YAY_6U1N", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4YAY_6U1N
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -2467,7 +2711,9 @@ select init_res, 4YAY_6U1N and chain A and resi 69 or init_res
                         contacts 4YAY_6U1N and chain A and init_res, 4YAY_6U1N and chain R and init_res, result="contacts_4YAY_6U1N", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4YAY_6U1N
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -2487,7 +2733,9 @@ select init_res, 4YAY_6U1N and chain A and resi 70 or init_res
                         contacts 4YAY_6U1N and chain A and init_res, 4YAY_6U1N and chain R and init_res, result="contacts_4YAY_6U1N", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4YAY_6U1N
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -2507,7 +2755,9 @@ select init_res, 4YAY_6U1N and chain A and resi 71 or init_res
                         contacts 4YAY_6U1N and chain A and init_res, 4YAY_6U1N and chain R and init_res, result="contacts_4YAY_6U1N", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4YAY_6U1N
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -2527,7 +2777,9 @@ select init_res, 4YAY_6U1N and chain A and resi 70 or init_res
                         contacts 4YAY_6U1N and chain A and init_res, 4YAY_6U1N and chain R and init_res, result="contacts_4YAY_6U1N", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4YAY_6U1N
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -2547,7 +2799,9 @@ select init_res, 4YAY_6U1N and chain A and resi 285 or init_res
                         contacts 4YAY_6U1N and chain A and init_res, 4YAY_6U1N and chain R and init_res, result="contacts_4YAY_6U1N", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4YAY_6U1N
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -2567,7 +2821,9 @@ select init_res, 4YAY_6U1N and chain A and resi 285 or init_res
                         contacts 4YAY_6U1N and chain A and init_res, 4YAY_6U1N and chain R and init_res, result="contacts_4YAY_6U1N", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4YAY_6U1N
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -2587,7 +2843,9 @@ select init_res, 4YAY_6U1N and chain A and resi 249 or init_res
                         contacts 4YAY_6U1N and chain A and init_res, 4YAY_6U1N and chain R and init_res, result="contacts_4YAY_6U1N", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4YAY_6U1N
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -2613,7 +2871,9 @@ select init_res, 4YAY_6UP7 and chain A and resi 70 or init_res
                         contacts 4YAY_6UP7 and chain A and init_res, 4YAY_6UP7 and chain R and init_res, result="contacts_4YAY_6UP7", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4YAY_6UP7
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -2633,7 +2893,9 @@ select init_res, 4YAY_6UP7 and chain A and resi 70 or init_res
                         contacts 4YAY_6UP7 and chain A and init_res, 4YAY_6UP7 and chain R and init_res, result="contacts_4YAY_6UP7", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4YAY_6UP7
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -2654,7 +2916,9 @@ select init_res, 4YAY_6UP7 and chain A and resi 71 or init_res
                         contacts 4YAY_6UP7 and chain A and init_res, 4YAY_6UP7 and chain R and init_res, result="contacts_4YAY_6UP7", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4YAY_6UP7
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -2675,7 +2939,9 @@ select init_res, 4YAY_6UP7 and chain A and resi 71 or init_res
                         contacts 4YAY_6UP7 and chain A and init_res, 4YAY_6UP7 and chain R and init_res, result="contacts_4YAY_6UP7", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4YAY_6UP7
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -2696,7 +2962,9 @@ select init_res, 4YAY_6UP7 and chain A and resi 71 or init_res
                         contacts 4YAY_6UP7 and chain A and init_res, 4YAY_6UP7 and chain R and init_res, result="contacts_4YAY_6UP7", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4YAY_6UP7
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -2716,7 +2984,9 @@ select init_res, 4YAY_6UP7 and chain A and resi 70 or init_res
                         contacts 4YAY_6UP7 and chain A and init_res, 4YAY_6UP7 and chain R and init_res, result="contacts_4YAY_6UP7", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4YAY_6UP7
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -2736,7 +3006,9 @@ select init_res, 4YAY_6UP7 and chain A and resi 67 or init_res
                         contacts 4YAY_6UP7 and chain A and init_res, 4YAY_6UP7 and chain R and init_res, result="contacts_4YAY_6UP7", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4YAY_6UP7
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -2756,7 +3028,9 @@ select init_res, 4YAY_6UP7 and chain A and resi 67 or init_res
                         contacts 4YAY_6UP7 and chain A and init_res, 4YAY_6UP7 and chain R and init_res, result="contacts_4YAY_6UP7", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4YAY_6UP7
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -2776,7 +3050,9 @@ select init_res, 4YAY_6UP7 and chain A and resi 68 or init_res
                         contacts 4YAY_6UP7 and chain A and init_res, 4YAY_6UP7 and chain R and init_res, result="contacts_4YAY_6UP7", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4YAY_6UP7
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -2796,7 +3072,9 @@ select init_res, 4YAY_6UP7 and chain A and resi 70 or init_res
                         contacts 4YAY_6UP7 and chain A and init_res, 4YAY_6UP7 and chain R and init_res, result="contacts_4YAY_6UP7", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4YAY_6UP7
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -2816,7 +3094,9 @@ select init_res, 4YAY_6UP7 and chain A and resi 69 or init_res
                         contacts 4YAY_6UP7 and chain A and init_res, 4YAY_6UP7 and chain R and init_res, result="contacts_4YAY_6UP7", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4YAY_6UP7
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -2836,7 +3116,9 @@ select init_res, 4YAY_6UP7 and chain A and resi 68 or init_res
                         contacts 4YAY_6UP7 and chain A and init_res, 4YAY_6UP7 and chain R and init_res, result="contacts_4YAY_6UP7", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4YAY_6UP7
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -2856,7 +3138,9 @@ select init_res, 4YAY_6UP7 and chain A and resi 69 or init_res
                         contacts 4YAY_6UP7 and chain A and init_res, 4YAY_6UP7 and chain R and init_res, result="contacts_4YAY_6UP7", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4YAY_6UP7
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -2876,7 +3160,9 @@ select init_res, 4YAY_6UP7 and chain A and resi 70 or init_res
                         contacts 4YAY_6UP7 and chain A and init_res, 4YAY_6UP7 and chain R and init_res, result="contacts_4YAY_6UP7", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4YAY_6UP7
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -2896,7 +3182,9 @@ select init_res, 4YAY_6UP7 and chain A and resi 70 or init_res
                         contacts 4YAY_6UP7 and chain A and init_res, 4YAY_6UP7 and chain R and init_res, result="contacts_4YAY_6UP7", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4YAY_6UP7
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -2916,7 +3204,9 @@ select init_res, 4YAY_6UP7 and chain A and resi 70 or init_res
                         contacts 4YAY_6UP7 and chain A and init_res, 4YAY_6UP7 and chain R and init_res, result="contacts_4YAY_6UP7", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4YAY_6UP7
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -2936,7 +3226,9 @@ select init_res, 4YAY_6UP7 and chain A and resi 70 or init_res
                         contacts 4YAY_6UP7 and chain A and init_res, 4YAY_6UP7 and chain R and init_res, result="contacts_4YAY_6UP7", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4YAY_6UP7
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -2956,7 +3248,9 @@ select init_res, 4YAY_6UP7 and chain A and resi 70 or init_res
                         contacts 4YAY_6UP7 and chain A and init_res, 4YAY_6UP7 and chain R and init_res, result="contacts_4YAY_6UP7", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4YAY_6UP7
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -2976,7 +3270,9 @@ select init_res, 4YAY_6UP7 and chain A and resi 71 or init_res
                         contacts 4YAY_6UP7 and chain A and init_res, 4YAY_6UP7 and chain R and init_res, result="contacts_4YAY_6UP7", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4YAY_6UP7
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -2996,7 +3292,9 @@ select init_res, 4YAY_6UP7 and chain A and resi 71 or init_res
                         contacts 4YAY_6UP7 and chain A and init_res, 4YAY_6UP7 and chain R and init_res, result="contacts_4YAY_6UP7", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4YAY_6UP7
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -3016,7 +3314,9 @@ select init_res, 4YAY_6UP7 and chain A and resi 72 or init_res
                         contacts 4YAY_6UP7 and chain A and init_res, 4YAY_6UP7 and chain R and init_res, result="contacts_4YAY_6UP7", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4YAY_6UP7
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -3036,7 +3336,9 @@ select init_res, 4YAY_6UP7 and chain A and resi 72 or init_res
                         contacts 4YAY_6UP7 and chain A and init_res, 4YAY_6UP7 and chain R and init_res, result="contacts_4YAY_6UP7", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4YAY_6UP7
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -3056,7 +3358,9 @@ select init_res, 4YAY_6UP7 and chain A and resi 68 or init_res
                         contacts 4YAY_6UP7 and chain A and init_res, 4YAY_6UP7 and chain R and init_res, result="contacts_4YAY_6UP7", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4YAY_6UP7
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -3076,7 +3380,9 @@ select init_res, 4YAY_6UP7 and chain A and resi 71 or init_res
                         contacts 4YAY_6UP7 and chain A and init_res, 4YAY_6UP7 and chain R and init_res, result="contacts_4YAY_6UP7", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4YAY_6UP7
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -3096,7 +3402,9 @@ select init_res, 4YAY_6UP7 and chain A and resi 71 or init_res
                         contacts 4YAY_6UP7 and chain A and init_res, 4YAY_6UP7 and chain R and init_res, result="contacts_4YAY_6UP7", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4YAY_6UP7
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -3116,7 +3424,9 @@ select init_res, 4YAY_6UP7 and chain A and resi 69 or init_res
                         contacts 4YAY_6UP7 and chain A and init_res, 4YAY_6UP7 and chain R and init_res, result="contacts_4YAY_6UP7", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4YAY_6UP7
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -3136,7 +3446,9 @@ select init_res, 4YAY_6UP7 and chain A and resi 70 or init_res
                         contacts 4YAY_6UP7 and chain A and init_res, 4YAY_6UP7 and chain R and init_res, result="contacts_4YAY_6UP7", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4YAY_6UP7
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -3156,7 +3468,9 @@ select init_res, 4YAY_6UP7 and chain A and resi 70 or init_res
                         contacts 4YAY_6UP7 and chain A and init_res, 4YAY_6UP7 and chain R and init_res, result="contacts_4YAY_6UP7", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4YAY_6UP7
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -3176,7 +3490,9 @@ select init_res, 4YAY_6UP7 and chain A and resi 70 or init_res
                         contacts 4YAY_6UP7 and chain A and init_res, 4YAY_6UP7 and chain R and init_res, result="contacts_4YAY_6UP7", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4YAY_6UP7
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -3196,7 +3512,9 @@ select init_res, 4YAY_6UP7 and chain A and resi 70 or init_res
                         contacts 4YAY_6UP7 and chain A and init_res, 4YAY_6UP7 and chain R and init_res, result="contacts_4YAY_6UP7", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4YAY_6UP7
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -3216,7 +3534,9 @@ select init_res, 4YAY_6UP7 and chain A and resi 71 or init_res
                         contacts 4YAY_6UP7 and chain A and init_res, 4YAY_6UP7 and chain R and init_res, result="contacts_4YAY_6UP7", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4YAY_6UP7
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -3236,7 +3556,9 @@ select init_res, 4YAY_6UP7 and chain A and resi 70 or init_res
                         contacts 4YAY_6UP7 and chain A and init_res, 4YAY_6UP7 and chain R and init_res, result="contacts_4YAY_6UP7", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4YAY_6UP7
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -3256,7 +3578,9 @@ select init_res, 4YAY_6UP7 and chain A and resi 246 or init_res
                         contacts 4YAY_6UP7 and chain A and init_res, 4YAY_6UP7 and chain R and init_res, result="contacts_4YAY_6UP7", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4YAY_6UP7
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -3276,7 +3600,9 @@ select init_res, 4YAY_6UP7 and chain A and resi 246 or init_res
                         contacts 4YAY_6UP7 and chain A and init_res, 4YAY_6UP7 and chain R and init_res, result="contacts_4YAY_6UP7", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4YAY_6UP7
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -3296,7 +3622,9 @@ select init_res, 4YAY_6UP7 and chain A and resi 247 or init_res
                         contacts 4YAY_6UP7 and chain A and init_res, 4YAY_6UP7 and chain R and init_res, result="contacts_4YAY_6UP7", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4YAY_6UP7
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -3316,7 +3644,9 @@ select init_res, 4YAY_6UP7 and chain A and resi 246 or init_res
                         contacts 4YAY_6UP7 and chain A and init_res, 4YAY_6UP7 and chain R and init_res, result="contacts_4YAY_6UP7", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4YAY_6UP7
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -3336,7 +3666,9 @@ select init_res, 4YAY_6UP7 and chain A and resi 250 or init_res
                         contacts 4YAY_6UP7 and chain A and init_res, 4YAY_6UP7 and chain R and init_res, result="contacts_4YAY_6UP7", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4YAY_6UP7
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -3356,7 +3688,9 @@ select init_res, 4YAY_6UP7 and chain A and resi 250 or init_res
                         contacts 4YAY_6UP7 and chain A and init_res, 4YAY_6UP7 and chain R and init_res, result="contacts_4YAY_6UP7", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4YAY_6UP7
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -3376,7 +3710,9 @@ select init_res, 4YAY_6UP7 and chain A and resi 133 or init_res
                         contacts 4YAY_6UP7 and chain A and init_res, 4YAY_6UP7 and chain R and init_res, result="contacts_4YAY_6UP7", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4YAY_6UP7
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -3396,7 +3732,9 @@ select init_res, 4YAY_6UP7 and chain A and resi 134 or init_res
                         contacts 4YAY_6UP7 and chain A and init_res, 4YAY_6UP7 and chain R and init_res, result="contacts_4YAY_6UP7", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4YAY_6UP7
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -3416,7 +3754,9 @@ select init_res, 4YAY_6UP7 and chain A and resi 134 or init_res
                         contacts 4YAY_6UP7 and chain A and init_res, 4YAY_6UP7 and chain R and init_res, result="contacts_4YAY_6UP7", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4YAY_6UP7
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -3436,7 +3776,9 @@ select init_res, 4YAY_6UP7 and chain A and resi 135 or init_res
                         contacts 4YAY_6UP7 and chain A and init_res, 4YAY_6UP7 and chain R and init_res, result="contacts_4YAY_6UP7", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4YAY_6UP7
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -3456,7 +3798,9 @@ select init_res, 4YAY_6UP7 and chain A and resi 245 or init_res
                         contacts 4YAY_6UP7 and chain A and init_res, 4YAY_6UP7 and chain R and init_res, result="contacts_4YAY_6UP7", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4YAY_6UP7
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -3482,7 +3826,9 @@ select init_res, 4YAY_6PWC and chain A and resi 67 or init_res
                         contacts 4YAY_6PWC and chain A and init_res, 4YAY_6PWC and chain R and init_res, result="contacts_4YAY_6PWC", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4YAY_6PWC
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -3502,7 +3848,9 @@ select init_res, 4YAY_6PWC and chain A and resi 67 or init_res
                         contacts 4YAY_6PWC and chain A and init_res, 4YAY_6PWC and chain R and init_res, result="contacts_4YAY_6PWC", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4YAY_6PWC
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -3522,7 +3870,9 @@ select init_res, 4YAY_6PWC and chain A and resi 68 or init_res
                         contacts 4YAY_6PWC and chain A and init_res, 4YAY_6PWC and chain R and init_res, result="contacts_4YAY_6PWC", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4YAY_6PWC
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -3542,7 +3892,9 @@ select init_res, 4YAY_6PWC and chain A and resi 67 or init_res
                         contacts 4YAY_6PWC and chain A and init_res, 4YAY_6PWC and chain R and init_res, result="contacts_4YAY_6PWC", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4YAY_6PWC
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -3562,7 +3914,9 @@ select init_res, 4YAY_6PWC and chain A and resi 71 or init_res
                         contacts 4YAY_6PWC and chain A and init_res, 4YAY_6PWC and chain R and init_res, result="contacts_4YAY_6PWC", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4YAY_6PWC
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -3582,7 +3936,9 @@ select init_res, 4YAY_6PWC and chain A and resi 67 or init_res
                         contacts 4YAY_6PWC and chain A and init_res, 4YAY_6PWC and chain R and init_res, result="contacts_4YAY_6PWC", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4YAY_6PWC
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -3602,7 +3958,9 @@ select init_res, 4YAY_6PWC and chain A and resi 71 or init_res
                         contacts 4YAY_6PWC and chain A and init_res, 4YAY_6PWC and chain R and init_res, result="contacts_4YAY_6PWC", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4YAY_6PWC
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -3622,7 +3980,9 @@ select init_res, 4YAY_6PWC and chain A and resi 71 or init_res
                         contacts 4YAY_6PWC and chain A and init_res, 4YAY_6PWC and chain R and init_res, result="contacts_4YAY_6PWC", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4YAY_6PWC
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -3642,7 +4002,9 @@ select init_res, 4YAY_6PWC and chain A and resi 72 or init_res
                         contacts 4YAY_6PWC and chain A and init_res, 4YAY_6PWC and chain R and init_res, result="contacts_4YAY_6PWC", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4YAY_6PWC
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -3662,7 +4024,9 @@ select init_res, 4YAY_6PWC and chain A and resi 72 or init_res
                         contacts 4YAY_6PWC and chain A and init_res, 4YAY_6PWC and chain R and init_res, result="contacts_4YAY_6PWC", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4YAY_6PWC
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -3682,7 +4046,9 @@ select init_res, 4YAY_6PWC and chain A and resi 70 or init_res
                         contacts 4YAY_6PWC and chain A and init_res, 4YAY_6PWC and chain R and init_res, result="contacts_4YAY_6PWC", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4YAY_6PWC
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -3702,7 +4068,9 @@ select init_res, 4YAY_6PWC and chain A and resi 70 or init_res
                         contacts 4YAY_6PWC and chain A and init_res, 4YAY_6PWC and chain R and init_res, result="contacts_4YAY_6PWC", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4YAY_6PWC
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -3722,7 +4090,9 @@ select init_res, 4YAY_6PWC and chain A and resi 244 or init_res
                         contacts 4YAY_6PWC and chain A and init_res, 4YAY_6PWC and chain R and init_res, result="contacts_4YAY_6PWC", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4YAY_6PWC
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -3742,7 +4112,9 @@ select init_res, 4YAY_6PWC and chain A and resi 244 or init_res
                         contacts 4YAY_6PWC and chain A and init_res, 4YAY_6PWC and chain R and init_res, result="contacts_4YAY_6PWC", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4YAY_6PWC
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -3768,7 +4140,9 @@ select init_res, 4ZUD_6TKO and chain A and resi 69 or init_res
                         contacts 4ZUD_6TKO and chain A and init_res, 4ZUD_6TKO and chain R and init_res, result="contacts_4ZUD_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4ZUD_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -3788,7 +4162,9 @@ select init_res, 4ZUD_6TKO and chain A and resi 69 or init_res
                         contacts 4ZUD_6TKO and chain A and init_res, 4ZUD_6TKO and chain R and init_res, result="contacts_4ZUD_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4ZUD_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -3808,7 +4184,9 @@ select init_res, 4ZUD_6TKO and chain A and resi 70 or init_res
                         contacts 4ZUD_6TKO and chain A and init_res, 4ZUD_6TKO and chain R and init_res, result="contacts_4ZUD_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4ZUD_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -3828,7 +4206,9 @@ select init_res, 4ZUD_6TKO and chain A and resi 69 or init_res
                         contacts 4ZUD_6TKO and chain A and init_res, 4ZUD_6TKO and chain R and init_res, result="contacts_4ZUD_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4ZUD_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -3848,7 +4228,9 @@ select init_res, 4ZUD_6TKO and chain A and resi 69 or init_res
                         contacts 4ZUD_6TKO and chain A and init_res, 4ZUD_6TKO and chain R and init_res, result="contacts_4ZUD_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4ZUD_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -3868,7 +4250,9 @@ select init_res, 4ZUD_6TKO and chain A and resi 70 or init_res
                         contacts 4ZUD_6TKO and chain A and init_res, 4ZUD_6TKO and chain R and init_res, result="contacts_4ZUD_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4ZUD_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -3888,7 +4272,9 @@ select init_res, 4ZUD_6TKO and chain A and resi 70 or init_res
                         contacts 4ZUD_6TKO and chain A and init_res, 4ZUD_6TKO and chain R and init_res, result="contacts_4ZUD_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4ZUD_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -3908,7 +4294,9 @@ select init_res, 4ZUD_6TKO and chain A and resi 71 or init_res
                         contacts 4ZUD_6TKO and chain A and init_res, 4ZUD_6TKO and chain R and init_res, result="contacts_4ZUD_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4ZUD_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -3928,7 +4316,9 @@ select init_res, 4ZUD_6TKO and chain A and resi 72 or init_res
                         contacts 4ZUD_6TKO and chain A and init_res, 4ZUD_6TKO and chain R and init_res, result="contacts_4ZUD_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4ZUD_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -3948,7 +4338,9 @@ select init_res, 4ZUD_6TKO and chain A and resi 69 or init_res
                         contacts 4ZUD_6TKO and chain A and init_res, 4ZUD_6TKO and chain R and init_res, result="contacts_4ZUD_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4ZUD_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -3968,7 +4360,9 @@ select init_res, 4ZUD_6TKO and chain A and resi 70 or init_res
                         contacts 4ZUD_6TKO and chain A and init_res, 4ZUD_6TKO and chain R and init_res, result="contacts_4ZUD_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4ZUD_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -3988,7 +4382,9 @@ select init_res, 4ZUD_6TKO and chain A and resi 70 or init_res
                         contacts 4ZUD_6TKO and chain A and init_res, 4ZUD_6TKO and chain R and init_res, result="contacts_4ZUD_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4ZUD_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -4008,7 +4404,9 @@ select init_res, 4ZUD_6TKO and chain A and resi 70 or init_res
                         contacts 4ZUD_6TKO and chain A and init_res, 4ZUD_6TKO and chain R and init_res, result="contacts_4ZUD_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4ZUD_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -4028,7 +4426,9 @@ select init_res, 4ZUD_6TKO and chain A and resi 70 or init_res
                         contacts 4ZUD_6TKO and chain A and init_res, 4ZUD_6TKO and chain R and init_res, result="contacts_4ZUD_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4ZUD_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -4048,7 +4448,9 @@ select init_res, 4ZUD_6TKO and chain A and resi 73 or init_res
                         contacts 4ZUD_6TKO and chain A and init_res, 4ZUD_6TKO and chain R and init_res, result="contacts_4ZUD_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4ZUD_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -4068,7 +4470,9 @@ select init_res, 4ZUD_6TKO and chain A and resi 73 or init_res
                         contacts 4ZUD_6TKO and chain A and init_res, 4ZUD_6TKO and chain R and init_res, result="contacts_4ZUD_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4ZUD_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -4088,7 +4492,9 @@ select init_res, 4ZUD_6TKO and chain A and resi 73 or init_res
                         contacts 4ZUD_6TKO and chain A and init_res, 4ZUD_6TKO and chain R and init_res, result="contacts_4ZUD_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4ZUD_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -4108,7 +4514,9 @@ select init_res, 4ZUD_6TKO and chain A and resi 66 or init_res
                         contacts 4ZUD_6TKO and chain A and init_res, 4ZUD_6TKO and chain R and init_res, result="contacts_4ZUD_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4ZUD_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -4128,7 +4536,9 @@ select init_res, 4ZUD_6TKO and chain A and resi 67 or init_res
                         contacts 4ZUD_6TKO and chain A and init_res, 4ZUD_6TKO and chain R and init_res, result="contacts_4ZUD_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4ZUD_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -4148,7 +4558,9 @@ select init_res, 4ZUD_6TKO and chain A and resi 68 or init_res
                         contacts 4ZUD_6TKO and chain A and init_res, 4ZUD_6TKO and chain R and init_res, result="contacts_4ZUD_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4ZUD_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -4168,7 +4580,9 @@ select init_res, 4ZUD_6TKO and chain A and resi 68 or init_res
                         contacts 4ZUD_6TKO and chain A and init_res, 4ZUD_6TKO and chain R and init_res, result="contacts_4ZUD_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4ZUD_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -4188,7 +4602,9 @@ select init_res, 4ZUD_6TKO and chain A and resi 69 or init_res
                         contacts 4ZUD_6TKO and chain A and init_res, 4ZUD_6TKO and chain R and init_res, result="contacts_4ZUD_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4ZUD_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -4208,7 +4624,9 @@ select init_res, 4ZUD_6TKO and chain A and resi 68 or init_res
                         contacts 4ZUD_6TKO and chain A and init_res, 4ZUD_6TKO and chain R and init_res, result="contacts_4ZUD_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4ZUD_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -4228,7 +4646,9 @@ select init_res, 4ZUD_6TKO and chain A and resi 69 or init_res
                         contacts 4ZUD_6TKO and chain A and init_res, 4ZUD_6TKO and chain R and init_res, result="contacts_4ZUD_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4ZUD_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -4248,7 +4668,9 @@ select init_res, 4ZUD_6TKO and chain A and resi 69 or init_res
                         contacts 4ZUD_6TKO and chain A and init_res, 4ZUD_6TKO and chain R and init_res, result="contacts_4ZUD_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4ZUD_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -4268,7 +4690,9 @@ select init_res, 4ZUD_6TKO and chain A and resi 69 or init_res
                         contacts 4ZUD_6TKO and chain A and init_res, 4ZUD_6TKO and chain R and init_res, result="contacts_4ZUD_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4ZUD_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -4288,7 +4712,9 @@ select init_res, 4ZUD_6TKO and chain A and resi 69 or init_res
                         contacts 4ZUD_6TKO and chain A and init_res, 4ZUD_6TKO and chain R and init_res, result="contacts_4ZUD_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4ZUD_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -4308,7 +4734,9 @@ select init_res, 4ZUD_6TKO and chain A and resi 70 or init_res
                         contacts 4ZUD_6TKO and chain A and init_res, 4ZUD_6TKO and chain R and init_res, result="contacts_4ZUD_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4ZUD_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -4328,7 +4756,9 @@ select init_res, 4ZUD_6TKO and chain A and resi 70 or init_res
                         contacts 4ZUD_6TKO and chain A and init_res, 4ZUD_6TKO and chain R and init_res, result="contacts_4ZUD_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4ZUD_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -4348,7 +4778,9 @@ select init_res, 4ZUD_6TKO and chain A and resi 71 or init_res
                         contacts 4ZUD_6TKO and chain A and init_res, 4ZUD_6TKO and chain R and init_res, result="contacts_4ZUD_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4ZUD_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -4368,7 +4800,9 @@ select init_res, 4ZUD_6TKO and chain A and resi 72 or init_res
                         contacts 4ZUD_6TKO and chain A and init_res, 4ZUD_6TKO and chain R and init_res, result="contacts_4ZUD_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4ZUD_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -4388,7 +4822,9 @@ select init_res, 4ZUD_6TKO and chain A and resi 72 or init_res
                         contacts 4ZUD_6TKO and chain A and init_res, 4ZUD_6TKO and chain R and init_res, result="contacts_4ZUD_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4ZUD_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -4408,7 +4844,9 @@ select init_res, 4ZUD_6TKO and chain A and resi 73 or init_res
                         contacts 4ZUD_6TKO and chain A and init_res, 4ZUD_6TKO and chain R and init_res, result="contacts_4ZUD_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4ZUD_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -4428,7 +4866,9 @@ select init_res, 4ZUD_6TKO and chain A and resi 68 or init_res
                         contacts 4ZUD_6TKO and chain A and init_res, 4ZUD_6TKO and chain R and init_res, result="contacts_4ZUD_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4ZUD_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -4448,7 +4888,9 @@ select init_res, 4ZUD_6TKO and chain A and resi 69 or init_res
                         contacts 4ZUD_6TKO and chain A and init_res, 4ZUD_6TKO and chain R and init_res, result="contacts_4ZUD_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4ZUD_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -4468,7 +4910,9 @@ select init_res, 4ZUD_6TKO and chain A and resi 69 or init_res
                         contacts 4ZUD_6TKO and chain A and init_res, 4ZUD_6TKO and chain R and init_res, result="contacts_4ZUD_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4ZUD_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -4488,7 +4932,9 @@ select init_res, 4ZUD_6TKO and chain A and resi 69 or init_res
                         contacts 4ZUD_6TKO and chain A and init_res, 4ZUD_6TKO and chain R and init_res, result="contacts_4ZUD_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4ZUD_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -4508,7 +4954,9 @@ select init_res, 4ZUD_6TKO and chain A and resi 73 or init_res
                         contacts 4ZUD_6TKO and chain A and init_res, 4ZUD_6TKO and chain R and init_res, result="contacts_4ZUD_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4ZUD_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -4528,7 +4976,9 @@ select init_res, 4ZUD_6TKO and chain A and resi 73 or init_res
                         contacts 4ZUD_6TKO and chain A and init_res, 4ZUD_6TKO and chain R and init_res, result="contacts_4ZUD_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4ZUD_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -4548,7 +4998,9 @@ select init_res, 4ZUD_6TKO and chain A and resi 73 or init_res
                         contacts 4ZUD_6TKO and chain A and init_res, 4ZUD_6TKO and chain R and init_res, result="contacts_4ZUD_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4ZUD_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -4568,7 +5020,9 @@ select init_res, 4ZUD_6TKO and chain A and resi 69 or init_res
                         contacts 4ZUD_6TKO and chain A and init_res, 4ZUD_6TKO and chain R and init_res, result="contacts_4ZUD_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4ZUD_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -4588,7 +5042,9 @@ select init_res, 4ZUD_6TKO and chain A and resi 69 or init_res
                         contacts 4ZUD_6TKO and chain A and init_res, 4ZUD_6TKO and chain R and init_res, result="contacts_4ZUD_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4ZUD_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -4608,7 +5064,9 @@ select init_res, 4ZUD_6TKO and chain A and resi 69 or init_res
                         contacts 4ZUD_6TKO and chain A and init_res, 4ZUD_6TKO and chain R and init_res, result="contacts_4ZUD_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4ZUD_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -4628,7 +5086,9 @@ select init_res, 4ZUD_6TKO and chain A and resi 69 or init_res
                         contacts 4ZUD_6TKO and chain A and init_res, 4ZUD_6TKO and chain R and init_res, result="contacts_4ZUD_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4ZUD_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -4648,7 +5108,9 @@ select init_res, 4ZUD_6TKO and chain A and resi 70 or init_res
                         contacts 4ZUD_6TKO and chain A and init_res, 4ZUD_6TKO and chain R and init_res, result="contacts_4ZUD_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4ZUD_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -4668,7 +5130,9 @@ select init_res, 4ZUD_6TKO and chain A and resi 70 or init_res
                         contacts 4ZUD_6TKO and chain A and init_res, 4ZUD_6TKO and chain R and init_res, result="contacts_4ZUD_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4ZUD_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -4688,7 +5152,9 @@ select init_res, 4ZUD_6TKO and chain A and resi 70 or init_res
                         contacts 4ZUD_6TKO and chain A and init_res, 4ZUD_6TKO and chain R and init_res, result="contacts_4ZUD_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4ZUD_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -4708,7 +5174,9 @@ select init_res, 4ZUD_6TKO and chain A and resi 71 or init_res
                         contacts 4ZUD_6TKO and chain A and init_res, 4ZUD_6TKO and chain R and init_res, result="contacts_4ZUD_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4ZUD_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -4728,7 +5196,9 @@ select init_res, 4ZUD_6TKO and chain A and resi 72 or init_res
                         contacts 4ZUD_6TKO and chain A and init_res, 4ZUD_6TKO and chain R and init_res, result="contacts_4ZUD_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4ZUD_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -4748,7 +5218,9 @@ select init_res, 4ZUD_6TKO and chain A and resi 71 or init_res
                         contacts 4ZUD_6TKO and chain A and init_res, 4ZUD_6TKO and chain R and init_res, result="contacts_4ZUD_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4ZUD_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -4768,7 +5240,9 @@ select init_res, 4ZUD_6TKO and chain A and resi 69 or init_res
                         contacts 4ZUD_6TKO and chain A and init_res, 4ZUD_6TKO and chain R and init_res, result="contacts_4ZUD_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4ZUD_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -4788,7 +5262,9 @@ select init_res, 4ZUD_6TKO and chain A and resi 73 or init_res
                         contacts 4ZUD_6TKO and chain A and init_res, 4ZUD_6TKO and chain R and init_res, result="contacts_4ZUD_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4ZUD_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -4808,7 +5284,9 @@ select init_res, 4ZUD_6TKO and chain A and resi 69 or init_res
                         contacts 4ZUD_6TKO and chain A and init_res, 4ZUD_6TKO and chain R and init_res, result="contacts_4ZUD_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4ZUD_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -4828,7 +5306,9 @@ select init_res, 4ZUD_6TKO and chain A and resi 73 or init_res
                         contacts 4ZUD_6TKO and chain A and init_res, 4ZUD_6TKO and chain R and init_res, result="contacts_4ZUD_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4ZUD_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -4848,7 +5328,9 @@ select init_res, 4ZUD_6TKO and chain A and resi 71 or init_res
                         contacts 4ZUD_6TKO and chain A and init_res, 4ZUD_6TKO and chain R and init_res, result="contacts_4ZUD_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4ZUD_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -4868,7 +5350,9 @@ select init_res, 4ZUD_6TKO and chain A and resi 72 or init_res
                         contacts 4ZUD_6TKO and chain A and init_res, 4ZUD_6TKO and chain R and init_res, result="contacts_4ZUD_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4ZUD_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -4888,7 +5372,9 @@ select init_res, 4ZUD_6TKO and chain A and resi 72 or init_res
                         contacts 4ZUD_6TKO and chain A and init_res, 4ZUD_6TKO and chain R and init_res, result="contacts_4ZUD_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4ZUD_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -4908,7 +5394,9 @@ select init_res, 4ZUD_6TKO and chain A and resi 73 or init_res
                         contacts 4ZUD_6TKO and chain A and init_res, 4ZUD_6TKO and chain R and init_res, result="contacts_4ZUD_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4ZUD_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -4928,7 +5416,9 @@ select init_res, 4ZUD_6TKO and chain A and resi 74 or init_res
                         contacts 4ZUD_6TKO and chain A and init_res, 4ZUD_6TKO and chain R and init_res, result="contacts_4ZUD_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4ZUD_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -4948,7 +5438,9 @@ select init_res, 4ZUD_6TKO and chain A and resi 72 or init_res
                         contacts 4ZUD_6TKO and chain A and init_res, 4ZUD_6TKO and chain R and init_res, result="contacts_4ZUD_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4ZUD_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -4968,7 +5460,9 @@ select init_res, 4ZUD_6TKO and chain A and resi 70 or init_res
                         contacts 4ZUD_6TKO and chain A and init_res, 4ZUD_6TKO and chain R and init_res, result="contacts_4ZUD_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4ZUD_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -4988,7 +5482,9 @@ select init_res, 4ZUD_6TKO and chain A and resi 71 or init_res
                         contacts 4ZUD_6TKO and chain A and init_res, 4ZUD_6TKO and chain R and init_res, result="contacts_4ZUD_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4ZUD_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -5008,7 +5504,9 @@ select init_res, 4ZUD_6TKO and chain A and resi 72 or init_res
                         contacts 4ZUD_6TKO and chain A and init_res, 4ZUD_6TKO and chain R and init_res, result="contacts_4ZUD_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4ZUD_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -5028,7 +5526,9 @@ select init_res, 4ZUD_6TKO and chain A and resi 71 or init_res
                         contacts 4ZUD_6TKO and chain A and init_res, 4ZUD_6TKO and chain R and init_res, result="contacts_4ZUD_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4ZUD_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -5048,7 +5548,9 @@ select init_res, 4ZUD_6TKO and chain A and resi 136 or init_res
                         contacts 4ZUD_6TKO and chain A and init_res, 4ZUD_6TKO and chain R and init_res, result="contacts_4ZUD_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4ZUD_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -5068,7 +5570,9 @@ select init_res, 4ZUD_6TKO and chain A and resi 136 or init_res
                         contacts 4ZUD_6TKO and chain A and init_res, 4ZUD_6TKO and chain R and init_res, result="contacts_4ZUD_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4ZUD_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -5088,7 +5592,9 @@ select init_res, 4ZUD_6TKO and chain A and resi 285 or init_res
                         contacts 4ZUD_6TKO and chain A and init_res, 4ZUD_6TKO and chain R and init_res, result="contacts_4ZUD_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4ZUD_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -5108,7 +5614,9 @@ select init_res, 4ZUD_6TKO and chain A and resi 285 or init_res
                         contacts 4ZUD_6TKO and chain A and init_res, 4ZUD_6TKO and chain R and init_res, result="contacts_4ZUD_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4ZUD_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -5134,7 +5642,9 @@ select init_res, 4ZUD_6U1N and chain A and resi 69 or init_res
                         contacts 4ZUD_6U1N and chain A and init_res, 4ZUD_6U1N and chain R and init_res, result="contacts_4ZUD_6U1N", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4ZUD_6U1N
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -5154,7 +5664,9 @@ select init_res, 4ZUD_6U1N and chain A and resi 69 or init_res
                         contacts 4ZUD_6U1N and chain A and init_res, 4ZUD_6U1N and chain R and init_res, result="contacts_4ZUD_6U1N", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4ZUD_6U1N
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -5174,7 +5686,9 @@ select init_res, 4ZUD_6U1N and chain A and resi 69 or init_res
                         contacts 4ZUD_6U1N and chain A and init_res, 4ZUD_6U1N and chain R and init_res, result="contacts_4ZUD_6U1N", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4ZUD_6U1N
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -5194,7 +5708,9 @@ select init_res, 4ZUD_6U1N and chain A and resi 70 or init_res
                         contacts 4ZUD_6U1N and chain A and init_res, 4ZUD_6U1N and chain R and init_res, result="contacts_4ZUD_6U1N", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4ZUD_6U1N
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -5214,7 +5730,9 @@ select init_res, 4ZUD_6U1N and chain A and resi 70 or init_res
                         contacts 4ZUD_6U1N and chain A and init_res, 4ZUD_6U1N and chain R and init_res, result="contacts_4ZUD_6U1N", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4ZUD_6U1N
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -5234,7 +5752,9 @@ select init_res, 4ZUD_6U1N and chain A and resi 70 or init_res
                         contacts 4ZUD_6U1N and chain A and init_res, 4ZUD_6U1N and chain R and init_res, result="contacts_4ZUD_6U1N", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4ZUD_6U1N
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -5254,7 +5774,9 @@ select init_res, 4ZUD_6U1N and chain A and resi 69 or init_res
                         contacts 4ZUD_6U1N and chain A and init_res, 4ZUD_6U1N and chain R and init_res, result="contacts_4ZUD_6U1N", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4ZUD_6U1N
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -5274,7 +5796,9 @@ select init_res, 4ZUD_6U1N and chain A and resi 71 or init_res
                         contacts 4ZUD_6U1N and chain A and init_res, 4ZUD_6U1N and chain R and init_res, result="contacts_4ZUD_6U1N", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4ZUD_6U1N
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -5295,7 +5819,9 @@ select init_res, 4ZUD_6U1N and chain A and resi 73 or init_res
                         contacts 4ZUD_6U1N and chain A and init_res, 4ZUD_6U1N and chain R and init_res, result="contacts_4ZUD_6U1N", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4ZUD_6U1N
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -5316,7 +5842,9 @@ select init_res, 4ZUD_6U1N and chain A and resi 73 or init_res
                         contacts 4ZUD_6U1N and chain A and init_res, 4ZUD_6U1N and chain R and init_res, result="contacts_4ZUD_6U1N", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4ZUD_6U1N
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -5336,7 +5864,9 @@ select init_res, 4ZUD_6U1N and chain A and resi 70 or init_res
                         contacts 4ZUD_6U1N and chain A and init_res, 4ZUD_6U1N and chain R and init_res, result="contacts_4ZUD_6U1N", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4ZUD_6U1N
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -5356,7 +5886,9 @@ select init_res, 4ZUD_6U1N and chain A and resi 72 or init_res
                         contacts 4ZUD_6U1N and chain A and init_res, 4ZUD_6U1N and chain R and init_res, result="contacts_4ZUD_6U1N", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4ZUD_6U1N
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -5376,7 +5908,9 @@ select init_res, 4ZUD_6U1N and chain A and resi 68 or init_res
                         contacts 4ZUD_6U1N and chain A and init_res, 4ZUD_6U1N and chain R and init_res, result="contacts_4ZUD_6U1N", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4ZUD_6U1N
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -5396,7 +5930,9 @@ select init_res, 4ZUD_6U1N and chain A and resi 69 or init_res
                         contacts 4ZUD_6U1N and chain A and init_res, 4ZUD_6U1N and chain R and init_res, result="contacts_4ZUD_6U1N", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4ZUD_6U1N
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -5416,7 +5952,9 @@ select init_res, 4ZUD_6U1N and chain A and resi 71 or init_res
                         contacts 4ZUD_6U1N and chain A and init_res, 4ZUD_6U1N and chain R and init_res, result="contacts_4ZUD_6U1N", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4ZUD_6U1N
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -5436,7 +5974,9 @@ select init_res, 4ZUD_6U1N and chain A and resi 69 or init_res
                         contacts 4ZUD_6U1N and chain A and init_res, 4ZUD_6U1N and chain R and init_res, result="contacts_4ZUD_6U1N", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4ZUD_6U1N
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -5456,7 +5996,9 @@ select init_res, 4ZUD_6U1N and chain A and resi 70 or init_res
                         contacts 4ZUD_6U1N and chain A and init_res, 4ZUD_6U1N and chain R and init_res, result="contacts_4ZUD_6U1N", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4ZUD_6U1N
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -5476,7 +6018,9 @@ select init_res, 4ZUD_6U1N and chain A and resi 70 or init_res
                         contacts 4ZUD_6U1N and chain A and init_res, 4ZUD_6U1N and chain R and init_res, result="contacts_4ZUD_6U1N", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4ZUD_6U1N
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -5496,7 +6040,9 @@ select init_res, 4ZUD_6U1N and chain A and resi 71 or init_res
                         contacts 4ZUD_6U1N and chain A and init_res, 4ZUD_6U1N and chain R and init_res, result="contacts_4ZUD_6U1N", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4ZUD_6U1N
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -5516,7 +6062,9 @@ select init_res, 4ZUD_6U1N and chain A and resi 70 or init_res
                         contacts 4ZUD_6U1N and chain A and init_res, 4ZUD_6U1N and chain R and init_res, result="contacts_4ZUD_6U1N", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4ZUD_6U1N
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -5536,7 +6084,9 @@ select init_res, 4ZUD_6U1N and chain A and resi 71 or init_res
                         contacts 4ZUD_6U1N and chain A and init_res, 4ZUD_6U1N and chain R and init_res, result="contacts_4ZUD_6U1N", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4ZUD_6U1N
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -5556,7 +6106,9 @@ select init_res, 4ZUD_6U1N and chain A and resi 71 or init_res
                         contacts 4ZUD_6U1N and chain A and init_res, 4ZUD_6U1N and chain R and init_res, result="contacts_4ZUD_6U1N", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4ZUD_6U1N
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -5576,7 +6128,9 @@ select init_res, 4ZUD_6U1N and chain A and resi 71 or init_res
                         contacts 4ZUD_6U1N and chain A and init_res, 4ZUD_6U1N and chain R and init_res, result="contacts_4ZUD_6U1N", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4ZUD_6U1N
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -5596,7 +6150,9 @@ select init_res, 4ZUD_6U1N and chain A and resi 71 or init_res
                         contacts 4ZUD_6U1N and chain A and init_res, 4ZUD_6U1N and chain R and init_res, result="contacts_4ZUD_6U1N", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4ZUD_6U1N
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -5616,7 +6172,9 @@ select init_res, 4ZUD_6U1N and chain A and resi 71 or init_res
                         contacts 4ZUD_6U1N and chain A and init_res, 4ZUD_6U1N and chain R and init_res, result="contacts_4ZUD_6U1N", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4ZUD_6U1N
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -5636,7 +6194,9 @@ select init_res, 4ZUD_6U1N and chain A and resi 72 or init_res
                         contacts 4ZUD_6U1N and chain A and init_res, 4ZUD_6U1N and chain R and init_res, result="contacts_4ZUD_6U1N", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4ZUD_6U1N
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -5656,7 +6216,9 @@ select init_res, 4ZUD_6U1N and chain A and resi 73 or init_res
                         contacts 4ZUD_6U1N and chain A and init_res, 4ZUD_6U1N and chain R and init_res, result="contacts_4ZUD_6U1N", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4ZUD_6U1N
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -5676,7 +6238,9 @@ select init_res, 4ZUD_6U1N and chain A and resi 73 or init_res
                         contacts 4ZUD_6U1N and chain A and init_res, 4ZUD_6U1N and chain R and init_res, result="contacts_4ZUD_6U1N", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4ZUD_6U1N
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -5696,7 +6260,9 @@ select init_res, 4ZUD_6U1N and chain A and resi 70 or init_res
                         contacts 4ZUD_6U1N and chain A and init_res, 4ZUD_6U1N and chain R and init_res, result="contacts_4ZUD_6U1N", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4ZUD_6U1N
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -5716,7 +6282,9 @@ select init_res, 4ZUD_6U1N and chain A and resi 72 or init_res
                         contacts 4ZUD_6U1N and chain A and init_res, 4ZUD_6U1N and chain R and init_res, result="contacts_4ZUD_6U1N", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4ZUD_6U1N
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -5736,7 +6304,9 @@ select init_res, 4ZUD_6U1N and chain A and resi 249 or init_res
                         contacts 4ZUD_6U1N and chain A and init_res, 4ZUD_6U1N and chain R and init_res, result="contacts_4ZUD_6U1N", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4ZUD_6U1N
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -5762,7 +6332,9 @@ select init_res, 4ZUD_6UP7 and chain A and resi 67 or init_res
                         contacts 4ZUD_6UP7 and chain A and init_res, 4ZUD_6UP7 and chain R and init_res, result="contacts_4ZUD_6UP7", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4ZUD_6UP7
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -5782,7 +6354,9 @@ select init_res, 4ZUD_6UP7 and chain A and resi 68 or init_res
                         contacts 4ZUD_6UP7 and chain A and init_res, 4ZUD_6UP7 and chain R and init_res, result="contacts_4ZUD_6UP7", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4ZUD_6UP7
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -5802,7 +6376,9 @@ select init_res, 4ZUD_6UP7 and chain A and resi 70 or init_res
                         contacts 4ZUD_6UP7 and chain A and init_res, 4ZUD_6UP7 and chain R and init_res, result="contacts_4ZUD_6UP7", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4ZUD_6UP7
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -5822,7 +6398,9 @@ select init_res, 4ZUD_6UP7 and chain A and resi 70 or init_res
                         contacts 4ZUD_6UP7 and chain A and init_res, 4ZUD_6UP7 and chain R and init_res, result="contacts_4ZUD_6UP7", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4ZUD_6UP7
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -5843,7 +6421,9 @@ select init_res, 4ZUD_6UP7 and chain A and resi 71 or init_res
                         contacts 4ZUD_6UP7 and chain A and init_res, 4ZUD_6UP7 and chain R and init_res, result="contacts_4ZUD_6UP7", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4ZUD_6UP7
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -5864,7 +6444,9 @@ select init_res, 4ZUD_6UP7 and chain A and resi 71 or init_res
                         contacts 4ZUD_6UP7 and chain A and init_res, 4ZUD_6UP7 and chain R and init_res, result="contacts_4ZUD_6UP7", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4ZUD_6UP7
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -5884,7 +6466,9 @@ select init_res, 4ZUD_6UP7 and chain A and resi 69 or init_res
                         contacts 4ZUD_6UP7 and chain A and init_res, 4ZUD_6UP7 and chain R and init_res, result="contacts_4ZUD_6UP7", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4ZUD_6UP7
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -5904,7 +6488,9 @@ select init_res, 4ZUD_6UP7 and chain A and resi 70 or init_res
                         contacts 4ZUD_6UP7 and chain A and init_res, 4ZUD_6UP7 and chain R and init_res, result="contacts_4ZUD_6UP7", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4ZUD_6UP7
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -5924,7 +6510,9 @@ select init_res, 4ZUD_6UP7 and chain A and resi 71 or init_res
                         contacts 4ZUD_6UP7 and chain A and init_res, 4ZUD_6UP7 and chain R and init_res, result="contacts_4ZUD_6UP7", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4ZUD_6UP7
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -5944,7 +6532,9 @@ select init_res, 4ZUD_6UP7 and chain A and resi 70 or init_res
                         contacts 4ZUD_6UP7 and chain A and init_res, 4ZUD_6UP7 and chain R and init_res, result="contacts_4ZUD_6UP7", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4ZUD_6UP7
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -5964,7 +6554,9 @@ select init_res, 4ZUD_6UP7 and chain A and resi 71 or init_res
                         contacts 4ZUD_6UP7 and chain A and init_res, 4ZUD_6UP7 and chain R and init_res, result="contacts_4ZUD_6UP7", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4ZUD_6UP7
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -5984,7 +6576,9 @@ select init_res, 4ZUD_6UP7 and chain A and resi 69 or init_res
                         contacts 4ZUD_6UP7 and chain A and init_res, 4ZUD_6UP7 and chain R and init_res, result="contacts_4ZUD_6UP7", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4ZUD_6UP7
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -6004,7 +6598,9 @@ select init_res, 4ZUD_6UP7 and chain A and resi 70 or init_res
                         contacts 4ZUD_6UP7 and chain A and init_res, 4ZUD_6UP7 and chain R and init_res, result="contacts_4ZUD_6UP7", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4ZUD_6UP7
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -6024,7 +6620,9 @@ select init_res, 4ZUD_6UP7 and chain A and resi 70 or init_res
                         contacts 4ZUD_6UP7 and chain A and init_res, 4ZUD_6UP7 and chain R and init_res, result="contacts_4ZUD_6UP7", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4ZUD_6UP7
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -6044,7 +6642,9 @@ select init_res, 4ZUD_6UP7 and chain A and resi 67 or init_res
                         contacts 4ZUD_6UP7 and chain A and init_res, 4ZUD_6UP7 and chain R and init_res, result="contacts_4ZUD_6UP7", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4ZUD_6UP7
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -6064,7 +6664,9 @@ select init_res, 4ZUD_6UP7 and chain A and resi 68 or init_res
                         contacts 4ZUD_6UP7 and chain A and init_res, 4ZUD_6UP7 and chain R and init_res, result="contacts_4ZUD_6UP7", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4ZUD_6UP7
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -6084,7 +6686,9 @@ select init_res, 4ZUD_6UP7 and chain A and resi 68 or init_res
                         contacts 4ZUD_6UP7 and chain A and init_res, 4ZUD_6UP7 and chain R and init_res, result="contacts_4ZUD_6UP7", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4ZUD_6UP7
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -6104,7 +6708,9 @@ select init_res, 4ZUD_6UP7 and chain A and resi 71 or init_res
                         contacts 4ZUD_6UP7 and chain A and init_res, 4ZUD_6UP7 and chain R and init_res, result="contacts_4ZUD_6UP7", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4ZUD_6UP7
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -6124,7 +6730,9 @@ select init_res, 4ZUD_6UP7 and chain A and resi 68 or init_res
                         contacts 4ZUD_6UP7 and chain A and init_res, 4ZUD_6UP7 and chain R and init_res, result="contacts_4ZUD_6UP7", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4ZUD_6UP7
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -6144,7 +6752,9 @@ select init_res, 4ZUD_6UP7 and chain A and resi 70 or init_res
                         contacts 4ZUD_6UP7 and chain A and init_res, 4ZUD_6UP7 and chain R and init_res, result="contacts_4ZUD_6UP7", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4ZUD_6UP7
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -6164,7 +6774,9 @@ select init_res, 4ZUD_6UP7 and chain A and resi 71 or init_res
                         contacts 4ZUD_6UP7 and chain A and init_res, 4ZUD_6UP7 and chain R and init_res, result="contacts_4ZUD_6UP7", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4ZUD_6UP7
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -6184,7 +6796,9 @@ select init_res, 4ZUD_6UP7 and chain A and resi 72 or init_res
                         contacts 4ZUD_6UP7 and chain A and init_res, 4ZUD_6UP7 and chain R and init_res, result="contacts_4ZUD_6UP7", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4ZUD_6UP7
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -6204,7 +6818,9 @@ select init_res, 4ZUD_6UP7 and chain A and resi 68 or init_res
                         contacts 4ZUD_6UP7 and chain A and init_res, 4ZUD_6UP7 and chain R and init_res, result="contacts_4ZUD_6UP7", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4ZUD_6UP7
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -6224,7 +6840,9 @@ select init_res, 4ZUD_6UP7 and chain A and resi 71 or init_res
                         contacts 4ZUD_6UP7 and chain A and init_res, 4ZUD_6UP7 and chain R and init_res, result="contacts_4ZUD_6UP7", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4ZUD_6UP7
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -6250,7 +6868,9 @@ select init_res, 4ZUD_6PWC and chain A and resi 67 or init_res
                         contacts 4ZUD_6PWC and chain A and init_res, 4ZUD_6PWC and chain R and init_res, result="contacts_4ZUD_6PWC", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4ZUD_6PWC
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -6270,7 +6890,9 @@ select init_res, 4ZUD_6PWC and chain A and resi 70 or init_res
                         contacts 4ZUD_6PWC and chain A and init_res, 4ZUD_6PWC and chain R and init_res, result="contacts_4ZUD_6PWC", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4ZUD_6PWC
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -6290,7 +6912,9 @@ select init_res, 4ZUD_6PWC and chain A and resi 70 or init_res
                         contacts 4ZUD_6PWC and chain A and init_res, 4ZUD_6PWC and chain R and init_res, result="contacts_4ZUD_6PWC", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4ZUD_6PWC
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -6310,7 +6934,9 @@ select init_res, 4ZUD_6PWC and chain A and resi 70 or init_res
                         contacts 4ZUD_6PWC and chain A and init_res, 4ZUD_6PWC and chain R and init_res, result="contacts_4ZUD_6PWC", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4ZUD_6PWC
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -6330,7 +6956,9 @@ select init_res, 4ZUD_6PWC and chain A and resi 71 or init_res
                         contacts 4ZUD_6PWC and chain A and init_res, 4ZUD_6PWC and chain R and init_res, result="contacts_4ZUD_6PWC", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4ZUD_6PWC
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -6350,7 +6978,9 @@ select init_res, 4ZUD_6PWC and chain A and resi 71 or init_res
                         contacts 4ZUD_6PWC and chain A and init_res, 4ZUD_6PWC and chain R and init_res, result="contacts_4ZUD_6PWC", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4ZUD_6PWC
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -6370,7 +7000,9 @@ select init_res, 4ZUD_6PWC and chain A and resi 71 or init_res
                         contacts 4ZUD_6PWC and chain A and init_res, 4ZUD_6PWC and chain R and init_res, result="contacts_4ZUD_6PWC", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4ZUD_6PWC
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -6390,7 +7022,9 @@ select init_res, 4ZUD_6PWC and chain A and resi 71 or init_res
                         contacts 4ZUD_6PWC and chain A and init_res, 4ZUD_6PWC and chain R and init_res, result="contacts_4ZUD_6PWC", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4ZUD_6PWC
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -6410,7 +7044,9 @@ select init_res, 4ZUD_6PWC and chain A and resi 67 or init_res
                         contacts 4ZUD_6PWC and chain A and init_res, 4ZUD_6PWC and chain R and init_res, result="contacts_4ZUD_6PWC", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4ZUD_6PWC
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -6430,7 +7066,9 @@ select init_res, 4ZUD_6PWC and chain A and resi 68 or init_res
                         contacts 4ZUD_6PWC and chain A and init_res, 4ZUD_6PWC and chain R and init_res, result="contacts_4ZUD_6PWC", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4ZUD_6PWC
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -6450,7 +7088,9 @@ select init_res, 4ZUD_6PWC and chain A and resi 71 or init_res
                         contacts 4ZUD_6PWC and chain A and init_res, 4ZUD_6PWC and chain R and init_res, result="contacts_4ZUD_6PWC", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 4ZUD_6PWC
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -6478,7 +7118,9 @@ select init_res, 6DO1_6TKO and chain A and resi 73 or init_res
                         contacts 6DO1_6TKO and chain A and init_res, 6DO1_6TKO and chain R and init_res, result="contacts_6DO1_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 6DO1_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -6498,7 +7140,9 @@ select init_res, 6DO1_6TKO and chain A and resi 68 or init_res
                         contacts 6DO1_6TKO and chain A and init_res, 6DO1_6TKO and chain R and init_res, result="contacts_6DO1_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 6DO1_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -6518,7 +7162,9 @@ select init_res, 6DO1_6TKO and chain A and resi 69 or init_res
                         contacts 6DO1_6TKO and chain A and init_res, 6DO1_6TKO and chain R and init_res, result="contacts_6DO1_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 6DO1_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -6540,7 +7186,9 @@ select init_res, 6DO1_6TKO and chain A and resi 73 or init_res
                         contacts 6DO1_6TKO and chain A and init_res, 6DO1_6TKO and chain R and init_res, result="contacts_6DO1_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 6DO1_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -6562,7 +7210,9 @@ select init_res, 6DO1_6TKO and chain A and resi 73 or init_res
                         contacts 6DO1_6TKO and chain A and init_res, 6DO1_6TKO and chain R and init_res, result="contacts_6DO1_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 6DO1_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -6584,7 +7234,9 @@ select init_res, 6DO1_6TKO and chain A and resi 73 or init_res
                         contacts 6DO1_6TKO and chain A and init_res, 6DO1_6TKO and chain R and init_res, result="contacts_6DO1_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 6DO1_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -6606,7 +7258,9 @@ select init_res, 6DO1_6TKO and chain A and resi 73 or init_res
                         contacts 6DO1_6TKO and chain A and init_res, 6DO1_6TKO and chain R and init_res, result="contacts_6DO1_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 6DO1_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -6628,7 +7282,9 @@ select init_res, 6DO1_6TKO and chain A and resi 73 or init_res
                         contacts 6DO1_6TKO and chain A and init_res, 6DO1_6TKO and chain R and init_res, result="contacts_6DO1_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 6DO1_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -6650,7 +7306,9 @@ select init_res, 6DO1_6TKO and chain A and resi 73 or init_res
                         contacts 6DO1_6TKO and chain A and init_res, 6DO1_6TKO and chain R and init_res, result="contacts_6DO1_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 6DO1_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -6672,7 +7330,9 @@ select init_res, 6DO1_6TKO and chain A and resi 73 or init_res
                         contacts 6DO1_6TKO and chain A and init_res, 6DO1_6TKO and chain R and init_res, result="contacts_6DO1_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 6DO1_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -6692,7 +7352,9 @@ select init_res, 6DO1_6TKO and chain A and resi 65 or init_res
                         contacts 6DO1_6TKO and chain A and init_res, 6DO1_6TKO and chain R and init_res, result="contacts_6DO1_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 6DO1_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -6712,7 +7374,9 @@ select init_res, 6DO1_6TKO and chain A and resi 65 or init_res
                         contacts 6DO1_6TKO and chain A and init_res, 6DO1_6TKO and chain R and init_res, result="contacts_6DO1_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 6DO1_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -6732,7 +7396,9 @@ select init_res, 6DO1_6TKO and chain A and resi 65 or init_res
                         contacts 6DO1_6TKO and chain A and init_res, 6DO1_6TKO and chain R and init_res, result="contacts_6DO1_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 6DO1_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -6752,7 +7418,9 @@ select init_res, 6DO1_6TKO and chain A and resi 65 or init_res
                         contacts 6DO1_6TKO and chain A and init_res, 6DO1_6TKO and chain R and init_res, result="contacts_6DO1_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 6DO1_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -6772,7 +7440,9 @@ select init_res, 6DO1_6TKO and chain A and resi 65 or init_res
                         contacts 6DO1_6TKO and chain A and init_res, 6DO1_6TKO and chain R and init_res, result="contacts_6DO1_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 6DO1_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -6792,7 +7462,9 @@ select init_res, 6DO1_6TKO and chain A and resi 65 or init_res
                         contacts 6DO1_6TKO and chain A and init_res, 6DO1_6TKO and chain R and init_res, result="contacts_6DO1_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 6DO1_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -6812,7 +7484,9 @@ select init_res, 6DO1_6TKO and chain A and resi 65 or init_res
                         contacts 6DO1_6TKO and chain A and init_res, 6DO1_6TKO and chain R and init_res, result="contacts_6DO1_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 6DO1_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -6832,7 +7506,9 @@ select init_res, 6DO1_6TKO and chain A and resi 285 or init_res
                         contacts 6DO1_6TKO and chain A and init_res, 6DO1_6TKO and chain R and init_res, result="contacts_6DO1_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 6DO1_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -6852,7 +7528,9 @@ select init_res, 6DO1_6TKO and chain A and resi 66 or init_res
                         contacts 6DO1_6TKO and chain A and init_res, 6DO1_6TKO and chain R and init_res, result="contacts_6DO1_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 6DO1_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -6872,7 +7550,9 @@ select init_res, 6DO1_6TKO and chain A and resi 69 or init_res
                         contacts 6DO1_6TKO and chain A and init_res, 6DO1_6TKO and chain R and init_res, result="contacts_6DO1_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 6DO1_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -6892,7 +7572,9 @@ select init_res, 6DO1_6TKO and chain A and resi 66 or init_res
                         contacts 6DO1_6TKO and chain A and init_res, 6DO1_6TKO and chain R and init_res, result="contacts_6DO1_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 6DO1_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -6912,7 +7594,9 @@ select init_res, 6DO1_6TKO and chain A and resi 136 or init_res
                         contacts 6DO1_6TKO and chain A and init_res, 6DO1_6TKO and chain R and init_res, result="contacts_6DO1_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 6DO1_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -6932,7 +7616,9 @@ select init_res, 6DO1_6TKO and chain A and resi 136 or init_res
                         contacts 6DO1_6TKO and chain A and init_res, 6DO1_6TKO and chain R and init_res, result="contacts_6DO1_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 6DO1_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -6952,7 +7638,9 @@ select init_res, 6DO1_6TKO and chain A and resi 136 or init_res
                         contacts 6DO1_6TKO and chain A and init_res, 6DO1_6TKO and chain R and init_res, result="contacts_6DO1_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 6DO1_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -6972,7 +7660,9 @@ select init_res, 6DO1_6TKO and chain A and resi 136 or init_res
                         contacts 6DO1_6TKO and chain A and init_res, 6DO1_6TKO and chain R and init_res, result="contacts_6DO1_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 6DO1_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -6992,7 +7682,9 @@ select init_res, 6DO1_6TKO and chain A and resi 247 or init_res
                         contacts 6DO1_6TKO and chain A and init_res, 6DO1_6TKO and chain R and init_res, result="contacts_6DO1_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 6DO1_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -7012,7 +7704,9 @@ select init_res, 6DO1_6TKO and chain A and resi 248 or init_res
                         contacts 6DO1_6TKO and chain A and init_res, 6DO1_6TKO and chain R and init_res, result="contacts_6DO1_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 6DO1_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -7032,7 +7726,9 @@ select init_res, 6DO1_6TKO and chain A and resi 285 or init_res
                         contacts 6DO1_6TKO and chain A and init_res, 6DO1_6TKO and chain R and init_res, result="contacts_6DO1_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 6DO1_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -7052,7 +7748,9 @@ select init_res, 6DO1_6TKO and chain A and resi 285 or init_res
                         contacts 6DO1_6TKO and chain A and init_res, 6DO1_6TKO and chain R and init_res, result="contacts_6DO1_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 6DO1_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -7072,7 +7770,9 @@ select init_res, 6DO1_6TKO and chain A and resi 285 or init_res
                         contacts 6DO1_6TKO and chain A and init_res, 6DO1_6TKO and chain R and init_res, result="contacts_6DO1_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 6DO1_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -7098,7 +7798,9 @@ select init_res, 6DO1_6U1N and chain A and resi 71 or init_res
                         contacts 6DO1_6U1N and chain A and init_res, 6DO1_6U1N and chain R and init_res, result="contacts_6DO1_6U1N", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 6DO1_6U1N
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -7119,7 +7821,9 @@ select init_res, 6DO1_6U1N and chain A and resi 73 or init_res
                         contacts 6DO1_6U1N and chain A and init_res, 6DO1_6U1N and chain R and init_res, result="contacts_6DO1_6U1N", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 6DO1_6U1N
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -7140,7 +7844,9 @@ select init_res, 6DO1_6U1N and chain A and resi 73 or init_res
                         contacts 6DO1_6U1N and chain A and init_res, 6DO1_6U1N and chain R and init_res, result="contacts_6DO1_6U1N", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 6DO1_6U1N
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -7161,7 +7867,9 @@ select init_res, 6DO1_6U1N and chain A and resi 73 or init_res
                         contacts 6DO1_6U1N and chain A and init_res, 6DO1_6U1N and chain R and init_res, result="contacts_6DO1_6U1N", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 6DO1_6U1N
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -7181,7 +7889,9 @@ select init_res, 6DO1_6U1N and chain A and resi 71 or init_res
                         contacts 6DO1_6U1N and chain A and init_res, 6DO1_6U1N and chain R and init_res, result="contacts_6DO1_6U1N", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 6DO1_6U1N
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -7201,7 +7911,9 @@ select init_res, 6DO1_6U1N and chain A and resi 71 or init_res
                         contacts 6DO1_6U1N and chain A and init_res, 6DO1_6U1N and chain R and init_res, result="contacts_6DO1_6U1N", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 6DO1_6U1N
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -7221,7 +7933,9 @@ select init_res, 6DO1_6U1N and chain A and resi 69 or init_res
                         contacts 6DO1_6U1N and chain A and init_res, 6DO1_6U1N and chain R and init_res, result="contacts_6DO1_6U1N", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 6DO1_6U1N
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -7241,7 +7955,9 @@ select init_res, 6DO1_6U1N and chain A and resi 69 or init_res
                         contacts 6DO1_6U1N and chain A and init_res, 6DO1_6U1N and chain R and init_res, result="contacts_6DO1_6U1N", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 6DO1_6U1N
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -7261,7 +7977,9 @@ select init_res, 6DO1_6U1N and chain A and resi 70 or init_res
                         contacts 6DO1_6U1N and chain A and init_res, 6DO1_6U1N and chain R and init_res, result="contacts_6DO1_6U1N", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 6DO1_6U1N
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -7281,7 +7999,9 @@ select init_res, 6DO1_6U1N and chain A and resi 70 or init_res
                         contacts 6DO1_6U1N and chain A and init_res, 6DO1_6U1N and chain R and init_res, result="contacts_6DO1_6U1N", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 6DO1_6U1N
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -7301,7 +8021,9 @@ select init_res, 6DO1_6U1N and chain A and resi 248 or init_res
                         contacts 6DO1_6U1N and chain A and init_res, 6DO1_6U1N and chain R and init_res, result="contacts_6DO1_6U1N", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 6DO1_6U1N
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -7321,7 +8043,9 @@ select init_res, 6DO1_6U1N and chain A and resi 249 or init_res
                         contacts 6DO1_6U1N and chain A and init_res, 6DO1_6U1N and chain R and init_res, result="contacts_6DO1_6U1N", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 6DO1_6U1N
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -7341,7 +8065,9 @@ select init_res, 6DO1_6U1N and chain A and resi 249 or init_res
                         contacts 6DO1_6U1N and chain A and init_res, 6DO1_6U1N and chain R and init_res, result="contacts_6DO1_6U1N", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 6DO1_6U1N
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -7361,7 +8087,9 @@ select init_res, 6DO1_6U1N and chain A and resi 63 or init_res
                         contacts 6DO1_6U1N and chain A and init_res, 6DO1_6U1N and chain R and init_res, result="contacts_6DO1_6U1N", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 6DO1_6U1N
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -7389,7 +8117,9 @@ select init_res, 6DO1_6UP7 and chain A and resi 71 or init_res
                         contacts 6DO1_6UP7 and chain A and init_res, 6DO1_6UP7 and chain R and init_res, result="contacts_6DO1_6UP7", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 6DO1_6UP7
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -7411,7 +8141,9 @@ select init_res, 6DO1_6UP7 and chain A and resi 71 or init_res
                         contacts 6DO1_6UP7 and chain A and init_res, 6DO1_6UP7 and chain R and init_res, result="contacts_6DO1_6UP7", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 6DO1_6UP7
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -7433,7 +8165,9 @@ select init_res, 6DO1_6UP7 and chain A and resi 71 or init_res
                         contacts 6DO1_6UP7 and chain A and init_res, 6DO1_6UP7 and chain R and init_res, result="contacts_6DO1_6UP7", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 6DO1_6UP7
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -7455,7 +8189,9 @@ select init_res, 6DO1_6UP7 and chain A and resi 71 or init_res
                         contacts 6DO1_6UP7 and chain A and init_res, 6DO1_6UP7 and chain R and init_res, result="contacts_6DO1_6UP7", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 6DO1_6UP7
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -7475,7 +8211,9 @@ select init_res, 6DO1_6UP7 and chain A and resi 65 or init_res
                         contacts 6DO1_6UP7 and chain A and init_res, 6DO1_6UP7 and chain R and init_res, result="contacts_6DO1_6UP7", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 6DO1_6UP7
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -7495,7 +8233,9 @@ select init_res, 6DO1_6UP7 and chain A and resi 65 or init_res
                         contacts 6DO1_6UP7 and chain A and init_res, 6DO1_6UP7 and chain R and init_res, result="contacts_6DO1_6UP7", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 6DO1_6UP7
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -7515,7 +8255,9 @@ select init_res, 6DO1_6UP7 and chain A and resi 65 or init_res
                         contacts 6DO1_6UP7 and chain A and init_res, 6DO1_6UP7 and chain R and init_res, result="contacts_6DO1_6UP7", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 6DO1_6UP7
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -7535,7 +8277,9 @@ select init_res, 6DO1_6UP7 and chain A and resi 65 or init_res
                         contacts 6DO1_6UP7 and chain A and init_res, 6DO1_6UP7 and chain R and init_res, result="contacts_6DO1_6UP7", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 6DO1_6UP7
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -7555,7 +8299,9 @@ select init_res, 6DO1_6UP7 and chain A and resi 65 or init_res
                         contacts 6DO1_6UP7 and chain A and init_res, 6DO1_6UP7 and chain R and init_res, result="contacts_6DO1_6UP7", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 6DO1_6UP7
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -7575,7 +8321,9 @@ select init_res, 6DO1_6UP7 and chain A and resi 65 or init_res
                         contacts 6DO1_6UP7 and chain A and init_res, 6DO1_6UP7 and chain R and init_res, result="contacts_6DO1_6UP7", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 6DO1_6UP7
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -7595,7 +8343,9 @@ select init_res, 6DO1_6UP7 and chain A and resi 65 or init_res
                         contacts 6DO1_6UP7 and chain A and init_res, 6DO1_6UP7 and chain R and init_res, result="contacts_6DO1_6UP7", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 6DO1_6UP7
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -7615,7 +8365,9 @@ select init_res, 6DO1_6UP7 and chain A and resi 250 or init_res
                         contacts 6DO1_6UP7 and chain A and init_res, 6DO1_6UP7 and chain R and init_res, result="contacts_6DO1_6UP7", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 6DO1_6UP7
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -7635,7 +8387,9 @@ select init_res, 6DO1_6UP7 and chain A and resi 65 or init_res
                         contacts 6DO1_6UP7 and chain A and init_res, 6DO1_6UP7 and chain R and init_res, result="contacts_6DO1_6UP7", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 6DO1_6UP7
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -7655,7 +8409,9 @@ select init_res, 6DO1_6UP7 and chain A and resi 65 or init_res
                         contacts 6DO1_6UP7 and chain A and init_res, 6DO1_6UP7 and chain R and init_res, result="contacts_6DO1_6UP7", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 6DO1_6UP7
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -7675,7 +8431,9 @@ select init_res, 6DO1_6UP7 and chain A and resi 244 or init_res
                         contacts 6DO1_6UP7 and chain A and init_res, 6DO1_6UP7 and chain R and init_res, result="contacts_6DO1_6UP7", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 6DO1_6UP7
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -7695,7 +8453,9 @@ select init_res, 6DO1_6UP7 and chain A and resi 245 or init_res
                         contacts 6DO1_6UP7 and chain A and init_res, 6DO1_6UP7 and chain R and init_res, result="contacts_6DO1_6UP7", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 6DO1_6UP7
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -7715,7 +8475,9 @@ select init_res, 6DO1_6UP7 and chain A and resi 134 or init_res
                         contacts 6DO1_6UP7 and chain A and init_res, 6DO1_6UP7 and chain R and init_res, result="contacts_6DO1_6UP7", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 6DO1_6UP7
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -7747,7 +8509,9 @@ select init_res, 6OS0_6TKO and chain A and resi 69 or init_res
                         contacts 6OS0_6TKO and chain A and init_res, 6OS0_6TKO and chain R and init_res, result="contacts_6OS0_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 6OS0_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -7767,7 +8531,9 @@ select init_res, 6OS0_6TKO and chain A and resi 69 or init_res
                         contacts 6OS0_6TKO and chain A and init_res, 6OS0_6TKO and chain R and init_res, result="contacts_6OS0_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 6OS0_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -7787,7 +8553,9 @@ select init_res, 6OS0_6TKO and chain A and resi 69 or init_res
                         contacts 6OS0_6TKO and chain A and init_res, 6OS0_6TKO and chain R and init_res, result="contacts_6OS0_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 6OS0_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -7809,7 +8577,9 @@ select init_res, 6OS0_6TKO and chain A and resi 73 or init_res
                         contacts 6OS0_6TKO and chain A and init_res, 6OS0_6TKO and chain R and init_res, result="contacts_6OS0_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 6OS0_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -7829,7 +8599,9 @@ select init_res, 6OS0_6TKO and chain A and resi 68 or init_res
                         contacts 6OS0_6TKO and chain A and init_res, 6OS0_6TKO and chain R and init_res, result="contacts_6OS0_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 6OS0_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -7849,7 +8621,9 @@ select init_res, 6OS0_6TKO and chain A and resi 69 or init_res
                         contacts 6OS0_6TKO and chain A and init_res, 6OS0_6TKO and chain R and init_res, result="contacts_6OS0_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 6OS0_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -7871,7 +8645,9 @@ select init_res, 6OS0_6TKO and chain A and resi 73 or init_res
                         contacts 6OS0_6TKO and chain A and init_res, 6OS0_6TKO and chain R and init_res, result="contacts_6OS0_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 6OS0_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -7893,7 +8669,9 @@ select init_res, 6OS0_6TKO and chain A and resi 73 or init_res
                         contacts 6OS0_6TKO and chain A and init_res, 6OS0_6TKO and chain R and init_res, result="contacts_6OS0_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 6OS0_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -7915,7 +8693,9 @@ select init_res, 6OS0_6TKO and chain A and resi 73 or init_res
                         contacts 6OS0_6TKO and chain A and init_res, 6OS0_6TKO and chain R and init_res, result="contacts_6OS0_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 6OS0_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -7937,7 +8717,9 @@ select init_res, 6OS0_6TKO and chain A and resi 73 or init_res
                         contacts 6OS0_6TKO and chain A and init_res, 6OS0_6TKO and chain R and init_res, result="contacts_6OS0_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 6OS0_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -7959,7 +8741,9 @@ select init_res, 6OS0_6TKO and chain A and resi 73 or init_res
                         contacts 6OS0_6TKO and chain A and init_res, 6OS0_6TKO and chain R and init_res, result="contacts_6OS0_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 6OS0_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -7981,7 +8765,9 @@ select init_res, 6OS0_6TKO and chain A and resi 73 or init_res
                         contacts 6OS0_6TKO and chain A and init_res, 6OS0_6TKO and chain R and init_res, result="contacts_6OS0_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 6OS0_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -8003,7 +8789,9 @@ select init_res, 6OS0_6TKO and chain A and resi 73 or init_res
                         contacts 6OS0_6TKO and chain A and init_res, 6OS0_6TKO and chain R and init_res, result="contacts_6OS0_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 6OS0_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -8023,7 +8811,9 @@ select init_res, 6OS0_6TKO and chain A and resi 65 or init_res
                         contacts 6OS0_6TKO and chain A and init_res, 6OS0_6TKO and chain R and init_res, result="contacts_6OS0_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 6OS0_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -8043,7 +8833,9 @@ select init_res, 6OS0_6TKO and chain A and resi 65 or init_res
                         contacts 6OS0_6TKO and chain A and init_res, 6OS0_6TKO and chain R and init_res, result="contacts_6OS0_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 6OS0_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -8063,7 +8855,9 @@ select init_res, 6OS0_6TKO and chain A and resi 65 or init_res
                         contacts 6OS0_6TKO and chain A and init_res, 6OS0_6TKO and chain R and init_res, result="contacts_6OS0_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 6OS0_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -8083,7 +8877,9 @@ select init_res, 6OS0_6TKO and chain A and resi 65 or init_res
                         contacts 6OS0_6TKO and chain A and init_res, 6OS0_6TKO and chain R and init_res, result="contacts_6OS0_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 6OS0_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -8103,7 +8899,9 @@ select init_res, 6OS0_6TKO and chain A and resi 65 or init_res
                         contacts 6OS0_6TKO and chain A and init_res, 6OS0_6TKO and chain R and init_res, result="contacts_6OS0_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 6OS0_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -8123,7 +8921,9 @@ select init_res, 6OS0_6TKO and chain A and resi 285 or init_res
                         contacts 6OS0_6TKO and chain A and init_res, 6OS0_6TKO and chain R and init_res, result="contacts_6OS0_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 6OS0_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -8143,7 +8943,9 @@ select init_res, 6OS0_6TKO and chain A and resi 66 or init_res
                         contacts 6OS0_6TKO and chain A and init_res, 6OS0_6TKO and chain R and init_res, result="contacts_6OS0_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 6OS0_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -8163,7 +8965,9 @@ select init_res, 6OS0_6TKO and chain A and resi 78 or init_res
                         contacts 6OS0_6TKO and chain A and init_res, 6OS0_6TKO and chain R and init_res, result="contacts_6OS0_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 6OS0_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -8183,7 +8987,9 @@ select init_res, 6OS0_6TKO and chain A and resi 136 or init_res
                         contacts 6OS0_6TKO and chain A and init_res, 6OS0_6TKO and chain R and init_res, result="contacts_6OS0_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 6OS0_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -8203,7 +9009,9 @@ select init_res, 6OS0_6TKO and chain A and resi 136 or init_res
                         contacts 6OS0_6TKO and chain A and init_res, 6OS0_6TKO and chain R and init_res, result="contacts_6OS0_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 6OS0_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -8223,7 +9031,9 @@ select init_res, 6OS0_6TKO and chain A and resi 136 or init_res
                         contacts 6OS0_6TKO and chain A and init_res, 6OS0_6TKO and chain R and init_res, result="contacts_6OS0_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 6OS0_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -8249,7 +9059,9 @@ select init_res, 6OS0_6U1N and chain A and resi 69 or init_res
                         contacts 6OS0_6U1N and chain A and init_res, 6OS0_6U1N and chain R and init_res, result="contacts_6OS0_6U1N", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 6OS0_6U1N
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -8269,7 +9081,9 @@ select init_res, 6OS0_6U1N and chain A and resi 69 or init_res
                         contacts 6OS0_6U1N and chain A and init_res, 6OS0_6U1N and chain R and init_res, result="contacts_6OS0_6U1N", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 6OS0_6U1N
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -8289,7 +9103,9 @@ select init_res, 6OS0_6U1N and chain A and resi 69 or init_res
                         contacts 6OS0_6U1N and chain A and init_res, 6OS0_6U1N and chain R and init_res, result="contacts_6OS0_6U1N", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 6OS0_6U1N
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -8309,7 +9125,9 @@ select init_res, 6OS0_6U1N and chain A and resi 70 or init_res
                         contacts 6OS0_6U1N and chain A and init_res, 6OS0_6U1N and chain R and init_res, result="contacts_6OS0_6U1N", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 6OS0_6U1N
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -8329,7 +9147,9 @@ select init_res, 6OS0_6U1N and chain A and resi 70 or init_res
                         contacts 6OS0_6U1N and chain A and init_res, 6OS0_6U1N and chain R and init_res, result="contacts_6OS0_6U1N", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 6OS0_6U1N
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -8349,7 +9169,9 @@ select init_res, 6OS0_6U1N and chain A and resi 71 or init_res
                         contacts 6OS0_6U1N and chain A and init_res, 6OS0_6U1N and chain R and init_res, result="contacts_6OS0_6U1N", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 6OS0_6U1N
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -8369,7 +9191,9 @@ select init_res, 6OS0_6U1N and chain A and resi 70 or init_res
                         contacts 6OS0_6U1N and chain A and init_res, 6OS0_6U1N and chain R and init_res, result="contacts_6OS0_6U1N", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 6OS0_6U1N
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -8389,7 +9213,9 @@ select init_res, 6OS0_6U1N and chain A and resi 71 or init_res
                         contacts 6OS0_6U1N and chain A and init_res, 6OS0_6U1N and chain R and init_res, result="contacts_6OS0_6U1N", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 6OS0_6U1N
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -8410,7 +9236,9 @@ select init_res, 6OS0_6U1N and chain A and resi 73 or init_res
                         contacts 6OS0_6U1N and chain A and init_res, 6OS0_6U1N and chain R and init_res, result="contacts_6OS0_6U1N", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 6OS0_6U1N
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -8431,7 +9259,9 @@ select init_res, 6OS0_6U1N and chain A and resi 73 or init_res
                         contacts 6OS0_6U1N and chain A and init_res, 6OS0_6U1N and chain R and init_res, result="contacts_6OS0_6U1N", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 6OS0_6U1N
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -8452,7 +9282,9 @@ select init_res, 6OS0_6U1N and chain A and resi 73 or init_res
                         contacts 6OS0_6U1N and chain A and init_res, 6OS0_6U1N and chain R and init_res, result="contacts_6OS0_6U1N", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 6OS0_6U1N
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -8473,7 +9305,9 @@ select init_res, 6OS0_6U1N and chain A and resi 73 or init_res
                         contacts 6OS0_6U1N and chain A and init_res, 6OS0_6U1N and chain R and init_res, result="contacts_6OS0_6U1N", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 6OS0_6U1N
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -8493,7 +9327,9 @@ select init_res, 6OS0_6U1N and chain A and resi 71 or init_res
                         contacts 6OS0_6U1N and chain A and init_res, 6OS0_6U1N and chain R and init_res, result="contacts_6OS0_6U1N", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 6OS0_6U1N
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -8513,7 +9349,9 @@ select init_res, 6OS0_6U1N and chain A and resi 76 or init_res
                         contacts 6OS0_6U1N and chain A and init_res, 6OS0_6U1N and chain R and init_res, result="contacts_6OS0_6U1N", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 6OS0_6U1N
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -8533,7 +9371,9 @@ select init_res, 6OS0_6U1N and chain A and resi 63 or init_res
                         contacts 6OS0_6U1N and chain A and init_res, 6OS0_6U1N and chain R and init_res, result="contacts_6OS0_6U1N", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 6OS0_6U1N
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -8553,7 +9393,9 @@ select init_res, 6OS0_6U1N and chain A and resi 248 or init_res
                         contacts 6OS0_6U1N and chain A and init_res, 6OS0_6U1N and chain R and init_res, result="contacts_6OS0_6U1N", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 6OS0_6U1N
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -8573,7 +9415,9 @@ select init_res, 6OS0_6U1N and chain A and resi 249 or init_res
                         contacts 6OS0_6U1N and chain A and init_res, 6OS0_6U1N and chain R and init_res, result="contacts_6OS0_6U1N", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 6OS0_6U1N
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -8599,7 +9443,9 @@ select init_res, 6OS0_6UP7 and chain A and resi 67 or init_res
                         contacts 6OS0_6UP7 and chain A and init_res, 6OS0_6UP7 and chain R and init_res, result="contacts_6OS0_6UP7", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 6OS0_6UP7
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -8621,7 +9467,9 @@ select init_res, 6OS0_6UP7 and chain A and resi 71 or init_res
                         contacts 6OS0_6UP7 and chain A and init_res, 6OS0_6UP7 and chain R and init_res, result="contacts_6OS0_6UP7", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 6OS0_6UP7
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -8643,7 +9491,9 @@ select init_res, 6OS0_6UP7 and chain A and resi 71 or init_res
                         contacts 6OS0_6UP7 and chain A and init_res, 6OS0_6UP7 and chain R and init_res, result="contacts_6OS0_6UP7", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 6OS0_6UP7
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -8665,7 +9515,9 @@ select init_res, 6OS0_6UP7 and chain A and resi 71 or init_res
                         contacts 6OS0_6UP7 and chain A and init_res, 6OS0_6UP7 and chain R and init_res, result="contacts_6OS0_6UP7", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 6OS0_6UP7
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -8687,7 +9539,9 @@ select init_res, 6OS0_6UP7 and chain A and resi 71 or init_res
                         contacts 6OS0_6UP7 and chain A and init_res, 6OS0_6UP7 and chain R and init_res, result="contacts_6OS0_6UP7", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 6OS0_6UP7
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -8709,7 +9563,9 @@ select init_res, 6OS0_6UP7 and chain A and resi 71 or init_res
                         contacts 6OS0_6UP7 and chain A and init_res, 6OS0_6UP7 and chain R and init_res, result="contacts_6OS0_6UP7", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 6OS0_6UP7
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -8731,7 +9587,9 @@ select init_res, 6OS0_6UP7 and chain A and resi 71 or init_res
                         contacts 6OS0_6UP7 and chain A and init_res, 6OS0_6UP7 and chain R and init_res, result="contacts_6OS0_6UP7", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 6OS0_6UP7
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -8751,7 +9609,9 @@ select init_res, 6OS0_6UP7 and chain A and resi 65 or init_res
                         contacts 6OS0_6UP7 and chain A and init_res, 6OS0_6UP7 and chain R and init_res, result="contacts_6OS0_6UP7", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 6OS0_6UP7
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -8771,7 +9631,9 @@ select init_res, 6OS0_6UP7 and chain A and resi 65 or init_res
                         contacts 6OS0_6UP7 and chain A and init_res, 6OS0_6UP7 and chain R and init_res, result="contacts_6OS0_6UP7", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 6OS0_6UP7
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -8791,7 +9653,9 @@ select init_res, 6OS0_6UP7 and chain A and resi 65 or init_res
                         contacts 6OS0_6UP7 and chain A and init_res, 6OS0_6UP7 and chain R and init_res, result="contacts_6OS0_6UP7", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 6OS0_6UP7
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -8811,7 +9675,9 @@ select init_res, 6OS0_6UP7 and chain A and resi 65 or init_res
                         contacts 6OS0_6UP7 and chain A and init_res, 6OS0_6UP7 and chain R and init_res, result="contacts_6OS0_6UP7", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 6OS0_6UP7
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -8831,7 +9697,9 @@ select init_res, 6OS0_6UP7 and chain A and resi 65 or init_res
                         contacts 6OS0_6UP7 and chain A and init_res, 6OS0_6UP7 and chain R and init_res, result="contacts_6OS0_6UP7", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 6OS0_6UP7
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -8851,7 +9719,9 @@ select init_res, 6OS0_6UP7 and chain A and resi 65 or init_res
                         contacts 6OS0_6UP7 and chain A and init_res, 6OS0_6UP7 and chain R and init_res, result="contacts_6OS0_6UP7", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 6OS0_6UP7
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -8871,7 +9741,9 @@ select init_res, 6OS0_6UP7 and chain A and resi 245 or init_res
                         contacts 6OS0_6UP7 and chain A and init_res, 6OS0_6UP7 and chain R and init_res, result="contacts_6OS0_6UP7", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 6OS0_6UP7
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -8891,7 +9763,9 @@ select init_res, 6OS0_6UP7 and chain A and resi 65 or init_res
                         contacts 6OS0_6UP7 and chain A and init_res, 6OS0_6UP7 and chain R and init_res, result="contacts_6OS0_6UP7", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 6OS0_6UP7
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -8923,7 +9797,9 @@ select init_res, 6OS1_6TKO and chain A and resi 69 or init_res
                         contacts 6OS1_6TKO and chain A and init_res, 6OS1_6TKO and chain R and init_res, result="contacts_6OS1_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 6OS1_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -8943,7 +9819,9 @@ select init_res, 6OS1_6TKO and chain A and resi 69 or init_res
                         contacts 6OS1_6TKO and chain A and init_res, 6OS1_6TKO and chain R and init_res, result="contacts_6OS1_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 6OS1_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -8965,7 +9843,9 @@ select init_res, 6OS1_6TKO and chain A and resi 73 or init_res
                         contacts 6OS1_6TKO and chain A and init_res, 6OS1_6TKO and chain R and init_res, result="contacts_6OS1_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 6OS1_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -8987,7 +9867,9 @@ select init_res, 6OS1_6TKO and chain A and resi 73 or init_res
                         contacts 6OS1_6TKO and chain A and init_res, 6OS1_6TKO and chain R and init_res, result="contacts_6OS1_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 6OS1_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -9009,7 +9891,9 @@ select init_res, 6OS1_6TKO and chain A and resi 73 or init_res
                         contacts 6OS1_6TKO and chain A and init_res, 6OS1_6TKO and chain R and init_res, result="contacts_6OS1_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 6OS1_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -9031,7 +9915,9 @@ select init_res, 6OS1_6TKO and chain A and resi 73 or init_res
                         contacts 6OS1_6TKO and chain A and init_res, 6OS1_6TKO and chain R and init_res, result="contacts_6OS1_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 6OS1_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -9053,7 +9939,9 @@ select init_res, 6OS1_6TKO and chain A and resi 73 or init_res
                         contacts 6OS1_6TKO and chain A and init_res, 6OS1_6TKO and chain R and init_res, result="contacts_6OS1_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 6OS1_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -9073,7 +9961,9 @@ select init_res, 6OS1_6TKO and chain A and resi 68 or init_res
                         contacts 6OS1_6TKO and chain A and init_res, 6OS1_6TKO and chain R and init_res, result="contacts_6OS1_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 6OS1_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -9093,7 +9983,9 @@ select init_res, 6OS1_6TKO and chain A and resi 69 or init_res
                         contacts 6OS1_6TKO and chain A and init_res, 6OS1_6TKO and chain R and init_res, result="contacts_6OS1_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 6OS1_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -9115,7 +10007,9 @@ select init_res, 6OS1_6TKO and chain A and resi 73 or init_res
                         contacts 6OS1_6TKO and chain A and init_res, 6OS1_6TKO and chain R and init_res, result="contacts_6OS1_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 6OS1_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -9137,7 +10031,9 @@ select init_res, 6OS1_6TKO and chain A and resi 73 or init_res
                         contacts 6OS1_6TKO and chain A and init_res, 6OS1_6TKO and chain R and init_res, result="contacts_6OS1_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 6OS1_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -9159,7 +10055,9 @@ select init_res, 6OS1_6TKO and chain A and resi 73 or init_res
                         contacts 6OS1_6TKO and chain A and init_res, 6OS1_6TKO and chain R and init_res, result="contacts_6OS1_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 6OS1_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -9179,7 +10077,9 @@ select init_res, 6OS1_6TKO and chain A and resi 63 or init_res
                         contacts 6OS1_6TKO and chain A and init_res, 6OS1_6TKO and chain R and init_res, result="contacts_6OS1_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 6OS1_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -9199,7 +10099,9 @@ select init_res, 6OS1_6TKO and chain A and resi 65 or init_res
                         contacts 6OS1_6TKO and chain A and init_res, 6OS1_6TKO and chain R and init_res, result="contacts_6OS1_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 6OS1_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -9219,7 +10121,9 @@ select init_res, 6OS1_6TKO and chain A and resi 65 or init_res
                         contacts 6OS1_6TKO and chain A and init_res, 6OS1_6TKO and chain R and init_res, result="contacts_6OS1_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 6OS1_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -9239,7 +10143,9 @@ select init_res, 6OS1_6TKO and chain A and resi 65 or init_res
                         contacts 6OS1_6TKO and chain A and init_res, 6OS1_6TKO and chain R and init_res, result="contacts_6OS1_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 6OS1_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -9259,7 +10165,9 @@ select init_res, 6OS1_6TKO and chain A and resi 65 or init_res
                         contacts 6OS1_6TKO and chain A and init_res, 6OS1_6TKO and chain R and init_res, result="contacts_6OS1_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 6OS1_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -9279,7 +10187,9 @@ select init_res, 6OS1_6TKO and chain A and resi 65 or init_res
                         contacts 6OS1_6TKO and chain A and init_res, 6OS1_6TKO and chain R and init_res, result="contacts_6OS1_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 6OS1_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -9299,7 +10209,9 @@ select init_res, 6OS1_6TKO and chain A and resi 65 or init_res
                         contacts 6OS1_6TKO and chain A and init_res, 6OS1_6TKO and chain R and init_res, result="contacts_6OS1_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 6OS1_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -9319,7 +10231,9 @@ select init_res, 6OS1_6TKO and chain A and resi 285 or init_res
                         contacts 6OS1_6TKO and chain A and init_res, 6OS1_6TKO and chain R and init_res, result="contacts_6OS1_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 6OS1_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -9339,7 +10253,9 @@ select init_res, 6OS1_6TKO and chain A and resi 65 or init_res
                         contacts 6OS1_6TKO and chain A and init_res, 6OS1_6TKO and chain R and init_res, result="contacts_6OS1_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 6OS1_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -9359,7 +10275,9 @@ select init_res, 6OS1_6TKO and chain A and resi 66 or init_res
                         contacts 6OS1_6TKO and chain A and init_res, 6OS1_6TKO and chain R and init_res, result="contacts_6OS1_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 6OS1_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -9379,7 +10297,9 @@ select init_res, 6OS1_6TKO and chain A and resi 69 or init_res
                         contacts 6OS1_6TKO and chain A and init_res, 6OS1_6TKO and chain R and init_res, result="contacts_6OS1_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 6OS1_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -9399,7 +10319,9 @@ select init_res, 6OS1_6TKO and chain A and resi 78 or init_res
                         contacts 6OS1_6TKO and chain A and init_res, 6OS1_6TKO and chain R and init_res, result="contacts_6OS1_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 6OS1_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -9419,7 +10341,9 @@ select init_res, 6OS1_6TKO and chain A and resi 136 or init_res
                         contacts 6OS1_6TKO and chain A and init_res, 6OS1_6TKO and chain R and init_res, result="contacts_6OS1_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 6OS1_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -9439,7 +10363,9 @@ select init_res, 6OS1_6TKO and chain A and resi 136 or init_res
                         contacts 6OS1_6TKO and chain A and init_res, 6OS1_6TKO and chain R and init_res, result="contacts_6OS1_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 6OS1_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -9459,7 +10385,9 @@ select init_res, 6OS1_6TKO and chain A and resi 136 or init_res
                         contacts 6OS1_6TKO and chain A and init_res, 6OS1_6TKO and chain R and init_res, result="contacts_6OS1_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 6OS1_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -9479,7 +10407,9 @@ select init_res, 6OS1_6TKO and chain A and resi 249 or init_res
                         contacts 6OS1_6TKO and chain A and init_res, 6OS1_6TKO and chain R and init_res, result="contacts_6OS1_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 6OS1_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -9499,7 +10429,9 @@ select init_res, 6OS1_6TKO and chain A and resi 249 or init_res
                         contacts 6OS1_6TKO and chain A and init_res, 6OS1_6TKO and chain R and init_res, result="contacts_6OS1_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 6OS1_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -9525,7 +10457,9 @@ select init_res, 6OS1_6U1N and chain A and resi 69 or init_res
                         contacts 6OS1_6U1N and chain A and init_res, 6OS1_6U1N and chain R and init_res, result="contacts_6OS1_6U1N", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 6OS1_6U1N
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -9545,7 +10479,9 @@ select init_res, 6OS1_6U1N and chain A and resi 70 or init_res
                         contacts 6OS1_6U1N and chain A and init_res, 6OS1_6U1N and chain R and init_res, result="contacts_6OS1_6U1N", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 6OS1_6U1N
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -9565,7 +10501,9 @@ select init_res, 6OS1_6U1N and chain A and resi 69 or init_res
                         contacts 6OS1_6U1N and chain A and init_res, 6OS1_6U1N and chain R and init_res, result="contacts_6OS1_6U1N", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 6OS1_6U1N
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -9587,7 +10525,9 @@ select init_res, 6OS1_6U1N and chain A and resi 71 or init_res
                         contacts 6OS1_6U1N and chain A and init_res, 6OS1_6U1N and chain R and init_res, result="contacts_6OS1_6U1N", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 6OS1_6U1N
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -9609,7 +10549,9 @@ select init_res, 6OS1_6U1N and chain A and resi 71 or init_res
                         contacts 6OS1_6U1N and chain A and init_res, 6OS1_6U1N and chain R and init_res, result="contacts_6OS1_6U1N", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 6OS1_6U1N
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -9631,7 +10573,9 @@ select init_res, 6OS1_6U1N and chain A and resi 71 or init_res
                         contacts 6OS1_6U1N and chain A and init_res, 6OS1_6U1N and chain R and init_res, result="contacts_6OS1_6U1N", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 6OS1_6U1N
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -9653,7 +10597,9 @@ select init_res, 6OS1_6U1N and chain A and resi 71 or init_res
                         contacts 6OS1_6U1N and chain A and init_res, 6OS1_6U1N and chain R and init_res, result="contacts_6OS1_6U1N", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 6OS1_6U1N
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -9675,7 +10621,9 @@ select init_res, 6OS1_6U1N and chain A and resi 71 or init_res
                         contacts 6OS1_6U1N and chain A and init_res, 6OS1_6U1N and chain R and init_res, result="contacts_6OS1_6U1N", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 6OS1_6U1N
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -9697,7 +10645,9 @@ select init_res, 6OS1_6U1N and chain A and resi 71 or init_res
                         contacts 6OS1_6U1N and chain A and init_res, 6OS1_6U1N and chain R and init_res, result="contacts_6OS1_6U1N", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 6OS1_6U1N
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -9719,7 +10669,9 @@ select init_res, 6OS1_6U1N and chain A and resi 71 or init_res
                         contacts 6OS1_6U1N and chain A and init_res, 6OS1_6U1N and chain R and init_res, result="contacts_6OS1_6U1N", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 6OS1_6U1N
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -9739,7 +10691,9 @@ select init_res, 6OS1_6U1N and chain A and resi 76 or init_res
                         contacts 6OS1_6U1N and chain A and init_res, 6OS1_6U1N and chain R and init_res, result="contacts_6OS1_6U1N", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 6OS1_6U1N
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -9759,7 +10713,9 @@ select init_res, 6OS1_6U1N and chain A and resi 249 or init_res
                         contacts 6OS1_6U1N and chain A and init_res, 6OS1_6U1N and chain R and init_res, result="contacts_6OS1_6U1N", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 6OS1_6U1N
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -9787,7 +10743,9 @@ select init_res, 6OS1_6UP7 and chain A and resi 71 or init_res
                         contacts 6OS1_6UP7 and chain A and init_res, 6OS1_6UP7 and chain R and init_res, result="contacts_6OS1_6UP7", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 6OS1_6UP7
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -9809,7 +10767,9 @@ select init_res, 6OS1_6UP7 and chain A and resi 71 or init_res
                         contacts 6OS1_6UP7 and chain A and init_res, 6OS1_6UP7 and chain R and init_res, result="contacts_6OS1_6UP7", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 6OS1_6UP7
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -9831,7 +10791,9 @@ select init_res, 6OS1_6UP7 and chain A and resi 71 or init_res
                         contacts 6OS1_6UP7 and chain A and init_res, 6OS1_6UP7 and chain R and init_res, result="contacts_6OS1_6UP7", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 6OS1_6UP7
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -9853,7 +10815,9 @@ select init_res, 6OS1_6UP7 and chain A and resi 71 or init_res
                         contacts 6OS1_6UP7 and chain A and init_res, 6OS1_6UP7 and chain R and init_res, result="contacts_6OS1_6UP7", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 6OS1_6UP7
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -9875,7 +10839,9 @@ select init_res, 6OS1_6UP7 and chain A and resi 71 or init_res
                         contacts 6OS1_6UP7 and chain A and init_res, 6OS1_6UP7 and chain R and init_res, result="contacts_6OS1_6UP7", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 6OS1_6UP7
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -9897,7 +10863,9 @@ select init_res, 6OS1_6UP7 and chain A and resi 71 or init_res
                         contacts 6OS1_6UP7 and chain A and init_res, 6OS1_6UP7 and chain R and init_res, result="contacts_6OS1_6UP7", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 6OS1_6UP7
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -9919,7 +10887,9 @@ select init_res, 6OS1_6UP7 and chain A and resi 71 or init_res
                         contacts 6OS1_6UP7 and chain A and init_res, 6OS1_6UP7 and chain R and init_res, result="contacts_6OS1_6UP7", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 6OS1_6UP7
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -9941,7 +10911,9 @@ select init_res, 6OS1_6UP7 and chain A and resi 71 or init_res
                         contacts 6OS1_6UP7 and chain A and init_res, 6OS1_6UP7 and chain R and init_res, result="contacts_6OS1_6UP7", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 6OS1_6UP7
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -9961,7 +10933,9 @@ select init_res, 6OS1_6UP7 and chain A and resi 65 or init_res
                         contacts 6OS1_6UP7 and chain A and init_res, 6OS1_6UP7 and chain R and init_res, result="contacts_6OS1_6UP7", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 6OS1_6UP7
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -9981,7 +10955,9 @@ select init_res, 6OS1_6UP7 and chain A and resi 65 or init_res
                         contacts 6OS1_6UP7 and chain A and init_res, 6OS1_6UP7 and chain R and init_res, result="contacts_6OS1_6UP7", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 6OS1_6UP7
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -10001,7 +10977,9 @@ select init_res, 6OS1_6UP7 and chain A and resi 65 or init_res
                         contacts 6OS1_6UP7 and chain A and init_res, 6OS1_6UP7 and chain R and init_res, result="contacts_6OS1_6UP7", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 6OS1_6UP7
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -10021,7 +10999,9 @@ select init_res, 6OS1_6UP7 and chain A and resi 65 or init_res
                         contacts 6OS1_6UP7 and chain A and init_res, 6OS1_6UP7 and chain R and init_res, result="contacts_6OS1_6UP7", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 6OS1_6UP7
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -10041,7 +11021,9 @@ select init_res, 6OS1_6UP7 and chain A and resi 65 or init_res
                         contacts 6OS1_6UP7 and chain A and init_res, 6OS1_6UP7 and chain R and init_res, result="contacts_6OS1_6UP7", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 6OS1_6UP7
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -10061,7 +11043,9 @@ select init_res, 6OS1_6UP7 and chain A and resi 65 or init_res
                         contacts 6OS1_6UP7 and chain A and init_res, 6OS1_6UP7 and chain R and init_res, result="contacts_6OS1_6UP7", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 6OS1_6UP7
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -10081,7 +11065,9 @@ select init_res, 6OS1_6UP7 and chain A and resi 65 or init_res
                         contacts 6OS1_6UP7 and chain A and init_res, 6OS1_6UP7 and chain R and init_res, result="contacts_6OS1_6UP7", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 6OS1_6UP7
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -10101,7 +11087,9 @@ select init_res, 6OS1_6UP7 and chain A and resi 65 or init_res
                         contacts 6OS1_6UP7 and chain A and init_res, 6OS1_6UP7 and chain R and init_res, result="contacts_6OS1_6UP7", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 6OS1_6UP7
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -10121,7 +11109,9 @@ select init_res, 6OS1_6UP7 and chain A and resi 65 or init_res
                         contacts 6OS1_6UP7 and chain A and init_res, 6OS1_6UP7 and chain R and init_res, result="contacts_6OS1_6UP7", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 6OS1_6UP7
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -10141,7 +11131,9 @@ select init_res, 6OS1_6UP7 and chain A and resi 243 or init_res
                         contacts 6OS1_6UP7 and chain A and init_res, 6OS1_6UP7 and chain R and init_res, result="contacts_6OS1_6UP7", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 6OS1_6UP7
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -10161,7 +11153,9 @@ select init_res, 6OS1_6UP7 and chain A and resi 244 or init_res
                         contacts 6OS1_6UP7 and chain A and init_res, 6OS1_6UP7 and chain R and init_res, result="contacts_6OS1_6UP7", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 6OS1_6UP7
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -10181,7 +11175,9 @@ select init_res, 6OS1_6UP7 and chain A and resi 244 or init_res
                         contacts 6OS1_6UP7 and chain A and init_res, 6OS1_6UP7 and chain R and init_res, result="contacts_6OS1_6UP7", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 6OS1_6UP7
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -10201,7 +11197,9 @@ select init_res, 6OS1_6UP7 and chain A and resi 245 or init_res
                         contacts 6OS1_6UP7 and chain A and init_res, 6OS1_6UP7 and chain R and init_res, result="contacts_6OS1_6UP7", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 6OS1_6UP7
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -10233,7 +11231,9 @@ select init_res, 6OS2_6TKO and chain A and resi 69 or init_res
                         contacts 6OS2_6TKO and chain A and init_res, 6OS2_6TKO and chain R and init_res, result="contacts_6OS2_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 6OS2_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -10253,7 +11253,9 @@ select init_res, 6OS2_6TKO and chain A and resi 69 or init_res
                         contacts 6OS2_6TKO and chain A and init_res, 6OS2_6TKO and chain R and init_res, result="contacts_6OS2_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 6OS2_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -10275,7 +11277,9 @@ select init_res, 6OS2_6TKO and chain A and resi 73 or init_res
                         contacts 6OS2_6TKO and chain A and init_res, 6OS2_6TKO and chain R and init_res, result="contacts_6OS2_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 6OS2_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -10297,7 +11301,9 @@ select init_res, 6OS2_6TKO and chain A and resi 73 or init_res
                         contacts 6OS2_6TKO and chain A and init_res, 6OS2_6TKO and chain R and init_res, result="contacts_6OS2_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 6OS2_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -10319,7 +11325,9 @@ select init_res, 6OS2_6TKO and chain A and resi 73 or init_res
                         contacts 6OS2_6TKO and chain A and init_res, 6OS2_6TKO and chain R and init_res, result="contacts_6OS2_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 6OS2_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -10341,7 +11349,9 @@ select init_res, 6OS2_6TKO and chain A and resi 73 or init_res
                         contacts 6OS2_6TKO and chain A and init_res, 6OS2_6TKO and chain R and init_res, result="contacts_6OS2_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 6OS2_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -10363,7 +11373,9 @@ select init_res, 6OS2_6TKO and chain A and resi 73 or init_res
                         contacts 6OS2_6TKO and chain A and init_res, 6OS2_6TKO and chain R and init_res, result="contacts_6OS2_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 6OS2_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -10383,7 +11395,9 @@ select init_res, 6OS2_6TKO and chain A and resi 68 or init_res
                         contacts 6OS2_6TKO and chain A and init_res, 6OS2_6TKO and chain R and init_res, result="contacts_6OS2_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 6OS2_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -10403,7 +11417,9 @@ select init_res, 6OS2_6TKO and chain A and resi 69 or init_res
                         contacts 6OS2_6TKO and chain A and init_res, 6OS2_6TKO and chain R and init_res, result="contacts_6OS2_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 6OS2_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -10425,7 +11441,9 @@ select init_res, 6OS2_6TKO and chain A and resi 73 or init_res
                         contacts 6OS2_6TKO and chain A and init_res, 6OS2_6TKO and chain R and init_res, result="contacts_6OS2_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 6OS2_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -10447,7 +11465,9 @@ select init_res, 6OS2_6TKO and chain A and resi 73 or init_res
                         contacts 6OS2_6TKO and chain A and init_res, 6OS2_6TKO and chain R and init_res, result="contacts_6OS2_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 6OS2_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -10469,7 +11489,9 @@ select init_res, 6OS2_6TKO and chain A and resi 73 or init_res
                         contacts 6OS2_6TKO and chain A and init_res, 6OS2_6TKO and chain R and init_res, result="contacts_6OS2_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 6OS2_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -10491,7 +11513,9 @@ select init_res, 6OS2_6TKO and chain A and resi 73 or init_res
                         contacts 6OS2_6TKO and chain A and init_res, 6OS2_6TKO and chain R and init_res, result="contacts_6OS2_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 6OS2_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -10511,7 +11535,9 @@ select init_res, 6OS2_6TKO and chain A and resi 63 or init_res
                         contacts 6OS2_6TKO and chain A and init_res, 6OS2_6TKO and chain R and init_res, result="contacts_6OS2_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 6OS2_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -10531,7 +11557,9 @@ select init_res, 6OS2_6TKO and chain A and resi 65 or init_res
                         contacts 6OS2_6TKO and chain A and init_res, 6OS2_6TKO and chain R and init_res, result="contacts_6OS2_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 6OS2_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -10551,7 +11579,9 @@ select init_res, 6OS2_6TKO and chain A and resi 65 or init_res
                         contacts 6OS2_6TKO and chain A and init_res, 6OS2_6TKO and chain R and init_res, result="contacts_6OS2_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 6OS2_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -10571,7 +11601,9 @@ select init_res, 6OS2_6TKO and chain A and resi 65 or init_res
                         contacts 6OS2_6TKO and chain A and init_res, 6OS2_6TKO and chain R and init_res, result="contacts_6OS2_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 6OS2_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -10591,7 +11623,9 @@ select init_res, 6OS2_6TKO and chain A and resi 65 or init_res
                         contacts 6OS2_6TKO and chain A and init_res, 6OS2_6TKO and chain R and init_res, result="contacts_6OS2_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 6OS2_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -10611,7 +11645,9 @@ select init_res, 6OS2_6TKO and chain A and resi 65 or init_res
                         contacts 6OS2_6TKO and chain A and init_res, 6OS2_6TKO and chain R and init_res, result="contacts_6OS2_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 6OS2_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -10631,7 +11667,9 @@ select init_res, 6OS2_6TKO and chain A and resi 65 or init_res
                         contacts 6OS2_6TKO and chain A and init_res, 6OS2_6TKO and chain R and init_res, result="contacts_6OS2_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 6OS2_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -10651,7 +11689,9 @@ select init_res, 6OS2_6TKO and chain A and resi 285 or init_res
                         contacts 6OS2_6TKO and chain A and init_res, 6OS2_6TKO and chain R and init_res, result="contacts_6OS2_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 6OS2_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -10671,7 +11711,9 @@ select init_res, 6OS2_6TKO and chain A and resi 65 or init_res
                         contacts 6OS2_6TKO and chain A and init_res, 6OS2_6TKO and chain R and init_res, result="contacts_6OS2_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 6OS2_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -10691,7 +11733,9 @@ select init_res, 6OS2_6TKO and chain A and resi 66 or init_res
                         contacts 6OS2_6TKO and chain A and init_res, 6OS2_6TKO and chain R and init_res, result="contacts_6OS2_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 6OS2_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -10711,7 +11755,9 @@ select init_res, 6OS2_6TKO and chain A and resi 69 or init_res
                         contacts 6OS2_6TKO and chain A and init_res, 6OS2_6TKO and chain R and init_res, result="contacts_6OS2_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 6OS2_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -10731,7 +11777,9 @@ select init_res, 6OS2_6TKO and chain A and resi 78 or init_res
                         contacts 6OS2_6TKO and chain A and init_res, 6OS2_6TKO and chain R and init_res, result="contacts_6OS2_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 6OS2_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -10751,7 +11799,9 @@ select init_res, 6OS2_6TKO and chain A and resi 136 or init_res
                         contacts 6OS2_6TKO and chain A and init_res, 6OS2_6TKO and chain R and init_res, result="contacts_6OS2_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 6OS2_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -10771,7 +11821,9 @@ select init_res, 6OS2_6TKO and chain A and resi 136 or init_res
                         contacts 6OS2_6TKO and chain A and init_res, 6OS2_6TKO and chain R and init_res, result="contacts_6OS2_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 6OS2_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -10791,7 +11843,9 @@ select init_res, 6OS2_6TKO and chain A and resi 136 or init_res
                         contacts 6OS2_6TKO and chain A and init_res, 6OS2_6TKO and chain R and init_res, result="contacts_6OS2_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 6OS2_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -10811,7 +11865,9 @@ select init_res, 6OS2_6TKO and chain A and resi 249 or init_res
                         contacts 6OS2_6TKO and chain A and init_res, 6OS2_6TKO and chain R and init_res, result="contacts_6OS2_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 6OS2_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -10831,7 +11887,9 @@ select init_res, 6OS2_6TKO and chain A and resi 249 or init_res
                         contacts 6OS2_6TKO and chain A and init_res, 6OS2_6TKO and chain R and init_res, result="contacts_6OS2_6TKO", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 6OS2_6TKO
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -10857,7 +11915,9 @@ select init_res, 6OS2_6U1N and chain A and resi 69 or init_res
                         contacts 6OS2_6U1N and chain A and init_res, 6OS2_6U1N and chain R and init_res, result="contacts_6OS2_6U1N", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 6OS2_6U1N
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -10877,7 +11937,9 @@ select init_res, 6OS2_6U1N and chain A and resi 70 or init_res
                         contacts 6OS2_6U1N and chain A and init_res, 6OS2_6U1N and chain R and init_res, result="contacts_6OS2_6U1N", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 6OS2_6U1N
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -10899,7 +11961,9 @@ select init_res, 6OS2_6U1N and chain A and resi 71 or init_res
                         contacts 6OS2_6U1N and chain A and init_res, 6OS2_6U1N and chain R and init_res, result="contacts_6OS2_6U1N", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 6OS2_6U1N
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -10921,7 +11985,9 @@ select init_res, 6OS2_6U1N and chain A and resi 71 or init_res
                         contacts 6OS2_6U1N and chain A and init_res, 6OS2_6U1N and chain R and init_res, result="contacts_6OS2_6U1N", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 6OS2_6U1N
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -10943,7 +12009,9 @@ select init_res, 6OS2_6U1N and chain A and resi 71 or init_res
                         contacts 6OS2_6U1N and chain A and init_res, 6OS2_6U1N and chain R and init_res, result="contacts_6OS2_6U1N", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 6OS2_6U1N
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -10965,7 +12033,9 @@ select init_res, 6OS2_6U1N and chain A and resi 71 or init_res
                         contacts 6OS2_6U1N and chain A and init_res, 6OS2_6U1N and chain R and init_res, result="contacts_6OS2_6U1N", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 6OS2_6U1N
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -10987,7 +12057,9 @@ select init_res, 6OS2_6U1N and chain A and resi 71 or init_res
                         contacts 6OS2_6U1N and chain A and init_res, 6OS2_6U1N and chain R and init_res, result="contacts_6OS2_6U1N", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 6OS2_6U1N
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -11009,7 +12081,9 @@ select init_res, 6OS2_6U1N and chain A and resi 71 or init_res
                         contacts 6OS2_6U1N and chain A and init_res, 6OS2_6U1N and chain R and init_res, result="contacts_6OS2_6U1N", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 6OS2_6U1N
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -11029,7 +12103,9 @@ select init_res, 6OS2_6U1N and chain A and resi 76 or init_res
                         contacts 6OS2_6U1N and chain A and init_res, 6OS2_6U1N and chain R and init_res, result="contacts_6OS2_6U1N", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 6OS2_6U1N
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -11049,7 +12125,9 @@ select init_res, 6OS2_6U1N and chain A and resi 249 or init_res
                         contacts 6OS2_6U1N and chain A and init_res, 6OS2_6U1N and chain R and init_res, result="contacts_6OS2_6U1N", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 6OS2_6U1N
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -11069,7 +12147,9 @@ select init_res, 6OS2_6U1N and chain A and resi 249 or init_res
                         contacts 6OS2_6U1N and chain A and init_res, 6OS2_6U1N and chain R and init_res, result="contacts_6OS2_6U1N", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 6OS2_6U1N
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -11097,7 +12177,9 @@ select init_res, 6OS2_6UP7 and chain A and resi 71 or init_res
                         contacts 6OS2_6UP7 and chain A and init_res, 6OS2_6UP7 and chain R and init_res, result="contacts_6OS2_6UP7", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 6OS2_6UP7
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -11119,7 +12201,9 @@ select init_res, 6OS2_6UP7 and chain A and resi 71 or init_res
                         contacts 6OS2_6UP7 and chain A and init_res, 6OS2_6UP7 and chain R and init_res, result="contacts_6OS2_6UP7", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 6OS2_6UP7
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -11141,7 +12225,9 @@ select init_res, 6OS2_6UP7 and chain A and resi 71 or init_res
                         contacts 6OS2_6UP7 and chain A and init_res, 6OS2_6UP7 and chain R and init_res, result="contacts_6OS2_6UP7", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 6OS2_6UP7
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -11163,7 +12249,9 @@ select init_res, 6OS2_6UP7 and chain A and resi 71 or init_res
                         contacts 6OS2_6UP7 and chain A and init_res, 6OS2_6UP7 and chain R and init_res, result="contacts_6OS2_6UP7", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 6OS2_6UP7
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -11185,7 +12273,9 @@ select init_res, 6OS2_6UP7 and chain A and resi 71 or init_res
                         contacts 6OS2_6UP7 and chain A and init_res, 6OS2_6UP7 and chain R and init_res, result="contacts_6OS2_6UP7", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 6OS2_6UP7
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -11207,7 +12297,9 @@ select init_res, 6OS2_6UP7 and chain A and resi 71 or init_res
                         contacts 6OS2_6UP7 and chain A and init_res, 6OS2_6UP7 and chain R and init_res, result="contacts_6OS2_6UP7", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 6OS2_6UP7
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -11229,7 +12321,9 @@ select init_res, 6OS2_6UP7 and chain A and resi 71 or init_res
                         contacts 6OS2_6UP7 and chain A and init_res, 6OS2_6UP7 and chain R and init_res, result="contacts_6OS2_6UP7", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 6OS2_6UP7
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -11249,7 +12343,9 @@ select init_res, 6OS2_6UP7 and chain A and resi 65 or init_res
                         contacts 6OS2_6UP7 and chain A and init_res, 6OS2_6UP7 and chain R and init_res, result="contacts_6OS2_6UP7", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 6OS2_6UP7
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -11269,7 +12365,9 @@ select init_res, 6OS2_6UP7 and chain A and resi 65 or init_res
                         contacts 6OS2_6UP7 and chain A and init_res, 6OS2_6UP7 and chain R and init_res, result="contacts_6OS2_6UP7", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 6OS2_6UP7
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -11289,7 +12387,9 @@ select init_res, 6OS2_6UP7 and chain A and resi 65 or init_res
                         contacts 6OS2_6UP7 and chain A and init_res, 6OS2_6UP7 and chain R and init_res, result="contacts_6OS2_6UP7", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 6OS2_6UP7
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -11309,7 +12409,9 @@ select init_res, 6OS2_6UP7 and chain A and resi 65 or init_res
                         contacts 6OS2_6UP7 and chain A and init_res, 6OS2_6UP7 and chain R and init_res, result="contacts_6OS2_6UP7", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 6OS2_6UP7
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -11329,7 +12431,9 @@ select init_res, 6OS2_6UP7 and chain A and resi 65 or init_res
                         contacts 6OS2_6UP7 and chain A and init_res, 6OS2_6UP7 and chain R and init_res, result="contacts_6OS2_6UP7", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 6OS2_6UP7
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -11349,7 +12453,9 @@ select init_res, 6OS2_6UP7 and chain A and resi 65 or init_res
                         contacts 6OS2_6UP7 and chain A and init_res, 6OS2_6UP7 and chain R and init_res, result="contacts_6OS2_6UP7", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 6OS2_6UP7
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -11369,7 +12475,9 @@ select init_res, 6OS2_6UP7 and chain A and resi 65 or init_res
                         contacts 6OS2_6UP7 and chain A and init_res, 6OS2_6UP7 and chain R and init_res, result="contacts_6OS2_6UP7", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 6OS2_6UP7
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -11389,7 +12497,9 @@ select init_res, 6OS2_6UP7 and chain A and resi 65 or init_res
                         contacts 6OS2_6UP7 and chain A and init_res, 6OS2_6UP7 and chain R and init_res, result="contacts_6OS2_6UP7", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 6OS2_6UP7
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -11409,7 +12519,9 @@ select init_res, 6OS2_6UP7 and chain A and resi 65 or init_res
                         contacts 6OS2_6UP7 and chain A and init_res, 6OS2_6UP7 and chain R and init_res, result="contacts_6OS2_6UP7", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 6OS2_6UP7
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -11429,7 +12541,9 @@ select init_res, 6OS2_6UP7 and chain A and resi 134 or init_res
                         contacts 6OS2_6UP7 and chain A and init_res, 6OS2_6UP7 and chain R and init_res, result="contacts_6OS2_6UP7", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 6OS2_6UP7
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -11449,7 +12563,9 @@ select init_res, 6OS2_6UP7 and chain A and resi 243 or init_res
                         contacts 6OS2_6UP7 and chain A and init_res, 6OS2_6UP7 and chain R and init_res, result="contacts_6OS2_6UP7", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 6OS2_6UP7
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -11469,7 +12585,9 @@ select init_res, 6OS2_6UP7 and chain A and resi 244 or init_res
                         contacts 6OS2_6UP7 and chain A and init_res, 6OS2_6UP7 and chain R and init_res, result="contacts_6OS2_6UP7", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 6OS2_6UP7
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -11489,7 +12607,9 @@ select init_res, 6OS2_6UP7 and chain A and resi 244 or init_res
                         contacts 6OS2_6UP7 and chain A and init_res, 6OS2_6UP7 and chain R and init_res, result="contacts_6OS2_6UP7", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 6OS2_6UP7
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -11509,7 +12629,9 @@ select init_res, 6OS2_6UP7 and chain A and resi 245 or init_res
                         contacts 6OS2_6UP7 and chain A and init_res, 6OS2_6UP7 and chain R and init_res, result="contacts_6OS2_6UP7", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 6OS2_6UP7
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -11535,7 +12657,9 @@ select init_res, 6OS2_6PWC and chain A and resi 71 or init_res
                         contacts 6OS2_6PWC and chain A and init_res, 6OS2_6PWC and chain R and init_res, result="contacts_6OS2_6PWC", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 6OS2_6PWC
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
@@ -11555,7 +12679,9 @@ select init_res, 6OS2_6PWC and chain A and resi 70 or init_res
                         contacts 6OS2_6PWC and chain A and init_res, 6OS2_6PWC and chain R and init_res, result="contacts_6OS2_6PWC", cutoff=3.6, bigcutoff=3.6
                         label n. N & ! chain R and init_res, resi+resn
                         label n. N & chain R and init_res, resi+resn+' %1.2f'%b
-                        set label_position,(0,1.5,3)
+                        set label_position,(0,1.5,4)
+                        show cartoon, 6OS2_6PWC
+                        set cartoon_transparency, 0.5
                         orient init_res
                         viewport 1024,768
                         bg_color white
