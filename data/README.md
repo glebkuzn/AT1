@@ -25,3 +25,9 @@ res - номер остатка
 [Hydrophobic_clusters](Hydrophobic_clusters.csv) - кластеры гидрофобных контактов
 
 [model_res_dict](model_res_dict.csv) - словарь всех контактов, с нумерацией BW и названием остатков
+
+# Результаты сравнений
+
+[Выводы в виде гугл-таблиц](https://docs.google.com/spreadsheets/d/1L1MlA4oMD3fFyFkOCLfuvf_NeLEc56trNp_TIMIycVA/edit#gid=0)
+
+то же самое находится в папке table_contacts

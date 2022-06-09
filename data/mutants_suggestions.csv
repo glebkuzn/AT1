@@ -1,0 +1,7 @@
+Interaction_type,arr_res_number,arr_res_name,gpcr_orig_pdb,gpcr_orig_res_number,gpcr_orig_res_name,AT1_res_name
+IO,67,ASP,6TKO,12.49,ARG,LYS
+HY,77,LYS,6TKO,5.68,GLU,ALA
+HY,71,LEU,6UP7,6.29,ALA,ARG
+HY,134,GLU,6TKO,4.39,ARG,MET
+PH,140,LEU,6U1N,34.51,LEU,MET
+RE,245,ASN,6UP7,34.54,ARG,THR
