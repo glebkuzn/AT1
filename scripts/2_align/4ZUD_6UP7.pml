@@ -8,7 +8,7 @@
 
     save ../../pdb/2_aligned/AT1/4ZUD_6UP7.pdb
 
-    select round, byres arr around 10 and AT1
-    select orig, byres round around 10 and arr
+    select round, byres arr around 20 and AT1
+    select orig, byres round around 20 and arr
     save ../../pdb/2_aligned/cutted_arr/4ZUD_6UP7.pdb, (round or orig)
     
