@@ -41,11 +41,11 @@
         select init_res, 6OS2_6UP7 and chain R and resi 137  or init_res
         
                         show sticks, init_res
-                        label n. CB & ! chain R and init_res, resi+resn
-                        label first (n. N & ! chain R and init_res), '6UP7'
-                        label (n. CA & chain R and init_res and 6UP7) , resi+resn+' %1.2f'%b
+                        # labeln. CB & ! chain R and init_res, resi+resn
+                        # labelfirst (n. N & ! chain R and init_res), '6UP7'
+                        # label(n. CA & chain R and init_res and 6UP7) , resi+resn+' %1.2f'%b
                         set label_color, grey20, (n. CA & chain R and init_res and 6UP7)
-                        label first (n. CA & chain R and init_res and ! 6UP7) , resi+resn+' %1.2f'%b
+                        # labelfirst (n. CA & chain R and init_res and ! 6UP7) , resi+resn+' %1.2f'%b
                         set label_color, violetpurple, first (n. CA & chain R and init_res and ! 6UP7)
                         contacts chain R and init_res, chain A and init_res, result="contacts_6OS2_6UP7", cutoff=3.1, bigcutoff=3.6
 
@@ -54,9 +54,9 @@
     # select contact_round, contact around 3.6 and 6UP7 and chain R
     # select contact_orig, contact_round around 3.6 and 6UP7 and ! chain R
     # select contact_orig_res, byres contact_round around 3.6
-    # label (contact_round or contact_orig) and ! (name C+CA+CB+CD+CZ+CG), name
+    # # label(contact_round or contact_orig) and ! (name C+CA+CB+CD+CZ+CG), name
     # show sticks, contact_orig_res
-    # label first (n. CA & chain R and contact_orig_res) , resi+resn+' %1.2f'%b
+    # # labelfirst (n. CA & chain R and contact_orig_res) , resi+resn+' %1.2f'%b
 
                         set label_position,(0,1.5,5)
                         orient init_res

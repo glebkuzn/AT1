@@ -47,12 +47,9 @@
         select init_res, 6OS2_6TKO and chain R and resi 142  or init_res
         
                         show sticks, init_res
-                        label n. CB & ! chain R and init_res, resi+resn
-                        label first (n. N & ! chain R and init_res), '6TKO'
-                        label (n. CA & chain R and init_res and 6TKO) , resi+resn+' %1.2f'%b
-                        set label_color, grey20, (n. CA & chain R and init_res and 6TKO)
-                        label first (n. CA & chain R and init_res and ! 6TKO) , resi+resn+' %1.2f'%b
-                        set label_color, violetpurple, first (n. CA & chain R and init_res and ! 6TKO)
+                        set # label_color, grey20, (n. CA & chain R and init_res and 6TKO)
+                        # label first (n. CA & chain R and init_res and ! 6TKO) , resi+resn+' %1.2f'%b
+                        set # label_color, violetpurple, first (n. CA & chain R and init_res and ! 6TKO)
                         contacts chain R and init_res, chain A and init_res, result="contacts_6OS2_6TKO", cutoff=3.1, bigcutoff=3.6
 
 
@@ -60,21 +57,21 @@
     select contact_round, contact around 3.6 and 6TKO and chain R
     select contact_orig, contact_round around 3.6 and 6TKO and ! chain R
     select contact_orig_res, byres contact_round around 3.6
-    label (contact_round or contact_orig) and ! (name C+CA+CB+CD+CZ+CG), name
+    # label (contact_round or contact_orig) and ! (name C+CA+CB+CD+CZ+CG), name
     show lines, contact_orig_res
-    label (n. CA & chain R and contact_orig_res and 6TKO) , resi+resn+' %1.2f'%b
-    set label_color, grey20, (n. CA & chain R and contact_orig_res and 6TKO)
-    label first (n. CA & chain R and contact_orig_res and ! 6TKO) , resi+resn+' %1.2f'%b
-    set label_color, violetpurple, first (n. CA & chain R and contact_orig_res and ! 6TKO)
-    label first (n. CA & chain R and resi 60 and 6OS2_6TKO) , resi+resn+' %1.2f'%b
-    set label_color, violetpurple, first (n. CA & chain R and resi 60 and 6OS2_6TKO)
+    # label (n. CA & chain R and contact_orig_res and 6TKO) , resi+resn+' %1.2f'%b
+    set # label_color, grey20, (n. CA & chain R and contact_orig_res and 6TKO)
+    # label first (n. CA & chain R and contact_orig_res and ! 6TKO) , resi+resn+' %1.2f'%b
+    set # label_color, violetpurple, first (n. CA & chain R and contact_orig_res and ! 6TKO)
+    # label first (n. CA & chain R and resi 60 and 6OS2_6TKO) , resi+resn+' %1.2f'%b
+    set # label_color, violetpurple, first (n. CA & chain R and resi 60 and 6OS2_6TKO)
 
-                        set label_position,(0,1.5,5)
+                        set # label_position,(0,1.5,5)
                         orient init_res
                         set cartoon_transparency, 0.5
                         viewport 1024,768
                         bg_color white
-                        set label_size, 16
-                        set label_font_id, 7
+                        set # label_size, 16
+                        set # label_font_id, 7
                         move z,-6
     

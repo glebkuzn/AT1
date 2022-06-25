@@ -41,11 +41,11 @@
         select init_res, 6OS2_6U1N and chain R and resi 135  or init_res
         
                         show sticks, init_res
-                        label n. CB & ! chain R and init_res, resi+resn
-                        label first (n. N & ! chain R and init_res), '6U1N'
-                        label (n. CA & chain R and init_res and 6U1N) , resi+resn+' %1.2f'%b
+                        # labeln. CB & ! chain R and init_res, resi+resn
+                        # labelfirst (n. N & ! chain R and init_res), '6U1N'
+                        # label(n. CA & chain R and init_res and 6U1N) , resi+resn+' %1.2f'%b
                         set label_color, grey20, (n. CA & chain R and init_res and 6U1N)
-                        label first (n. CA & chain R and init_res and ! 6U1N) , resi+resn+' %1.2f'%b
+                        # labelfirst (n. CA & chain R and init_res and ! 6U1N) , resi+resn+' %1.2f'%b
                         set label_color, violetpurple, first (n. CA & chain R and init_res and ! 6U1N)
                         contacts chain R and init_res, chain A and init_res, result="contacts_6OS2_6U1N", cutoff=3.1, bigcutoff=3.6
 
@@ -54,11 +54,11 @@
     select contact_round, contact around 3.6 and 6U1N and chain R
     select contact_orig, contact_round around 3.6 and 6U1N and ! chain R
     # select contact_orig_res, byres contact_round around 3.6
-    label (contact_round or contact_orig) and ! (name C+CA+CB+CD+CZ+CG), name
+    # label(contact_round or contact_orig) and ! (name C+CA+CB+CD+CZ+CG), name
     # show lines, contact_orig_res
-    # label (n. CA & chain R and contact_orig_res and 6U1N) , resi+resn+' %1.2f'%b
+    # # label(n. CA & chain R and contact_orig_res and 6U1N) , resi+resn+' %1.2f'%b
     # set label_color, grey20, (n. CA & chain R and contact_orig_res and 6U1N)
-    label first (n. CA & chain R and resi 135 and 6OS2_6U1N) , resi+resn+' %1.2f'%b
+    # labelfirst (n. CA & chain R and resi 135 and 6OS2_6U1N) , resi+resn+' %1.2f'%b
     set label_color, violetpurple, first (n. CA & chain R and resi 135 and 6OS2_6U1N)
 
                         set label_position,(0,1.5,5)
